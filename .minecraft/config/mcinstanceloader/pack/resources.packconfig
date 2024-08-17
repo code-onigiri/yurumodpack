@@ -380,6 +380,13 @@ side = both
 # TODO: 便利系
 # TODO: 小物系
 
+[Enchiridion Continuation]
+type = curseforge
+projectId = 965712
+fileId = 5053646
+destination = mods/Enchiridion2-2.0.3.jar
+side  = both
+
 #[Bamboo]
 #type = url
 #destination = mods/Bamboo-2.6.8.5.jar
