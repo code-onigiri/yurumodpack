@@ -178,13 +178,11 @@ fileId = 2983061
 destination = mods/NetheritePlus_1.7.10_Beta0.9.jar
 side = both
 
-#[NovaCraft]
-#type = modrinth
-#projectId = o5nf5sS7
-#destination = mods/NovaCraft-V1.3.5-(1.7.10).jar
-#versionId = aisO7S6G
-#sourceFileName = NovaCraft V1.3.5 (1.7.10).jar
-#side = both
+[SkinPort]
+type = url
+destination = mods/SkinPort-1.7.10-v13.jar
+url = https://github.com/RetroForge/SkinPort/releases/download/v13/SkinPort-1.7.10-v13.jar
+side = 
 
 # TODO: ライブラリ
 # lib mod
