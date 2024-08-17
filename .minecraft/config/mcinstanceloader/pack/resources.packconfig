@@ -1598,53 +1598,53 @@ destination = mods/DarkRaven-mc1.7.2-r2.jar
 url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=57229
 side = both
 
-[Nihil]
-type = url
-destination = mods/Nihil-mc1.7.x-r8.jar
-url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=61937
-side = both
+#[Nihil]
+#type = url
+#destination = mods/Nihil-mc1.7.x-r8.jar
+#url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=61937
+#side = both
 
-[SlashBlade-Kirisaya]
-type = url
-destination = mods/SlashBlade-Kirisaya-r1.jar
-url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=57176
-side = both
+#[SlashBlade-Kirisaya]
+#type = url
+#destination = mods/SlashBlade-Kirisaya-r1.jar
+#url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=57176
+#side = both
 
-[SlashBlade-Kamuy]
-type = url
-destination = mods/SlashBlade-Kamuy-mc1.7.10-r6.jar
-url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=55969
-side = both
+#[SlashBlade-Kamuy]
+#type = url
+#destination = mods/SlashBlade-Kamuy-mc1.7.10-r6.jar
+#url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=55969
+#side = both
 
-[SlashBlade-Laemmle]
-type = url
-destination = mods/Slashblade-Laemmle-mc1.7.10-r1.jar
-url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=60590
-side = both
+#[SlashBlade-Laemmle]
+#type = url
+#destination = mods/Slashblade-Laemmle-mc1.7.10-r1.jar
+#url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=60590
+#side = both
 
-[SlashBlade-yukari]
-type = url
-destination = mods/Slashblade-yukari-mc1.7.10-r2.jar
-url = https://web.archive.org/web/20190715123647/http://goo.gl/hchjUd
-side = both
+#[SlashBlade-yukari]
+#type = url
+#destination = mods/Slashblade-yukari-mc1.7.10-r2.jar
+#url = https://web.archive.org/web/20190715123647/http://goo.gl/hchjUd
+#side = both
 
-[SlashBladeFrostWolf]
-type = url
-destination = mods/SlashBladeFrostWolf-mc1.7.2-r1.1.jar
-url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=51483
-side = both
+#[SlashBladeFrostWolf]
+#type = url
+#destination = mods/SlashBladeFrostWolf-mc1.7.2-r1.1.jar
+#url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=51483
+#side = both
 
-[toyako]
-type = url
-destination = mods/toyako-mc1.7.2-r1.jar
-url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=48477
-side = both
+#[toyako]
+#type = url
+#destination = mods/toyako-mc1.7.2-r1.jar
+#url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=48477
+#side = both
 
-[SlashArts]
-type = url
-destination = mods/SlashBlade-SlashArts-mc1.7.10-r2.jar
-url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=52353
-side = both
+#[SlashArts]
+#type = url
+#destination = mods/SlashBlade-SlashArts-mc1.7.10-r2.jar
+#url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=52353
+#side = both
 
 # TODO: Avaritiaアドオン
 # Avaritiaアドオンmod
