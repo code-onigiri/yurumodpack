@@ -1,0 +1,2959 @@
+[17:23:17] INFO: Current mod version is 2.7
+[17:23:17] INFO: The mod correctly entered the preInit stage.
+[17:23:17] INFO: Generating the mod info page...
+[17:23:17] INFO: The current side is client .
+[17:23:17] INFO: Generating the config file...
+[17:23:17] INFO: Detecting files scheduled for deletion
+[17:23:17] INFO: name: txloader-1.7.1.jar | size: 37715
+[17:23:17] INFO: name: .index/tx-loader.pw.toml | size: 244
+[17:23:17] INFO: name: .index/mcinstance-loader.pw.toml | size: 258
+[17:23:17] INFO: name: mcinstanceloader-2.7.jar | size: 340885
+[17:23:17] INFO: Found a leftover temp directory, removed it.
+
+[17:23:17] INFO: Successfully downloaded the file on attempt number 1.
+[17:23:17] INFO: Update checker: The mod is properly updated.
+[17:23:17] INFO: Found pack.instance, starting the installation process.
+
+[17:23:17] INFO: Found a resources.packconfig file, starting the download process.
+[17:23:17] INFO: Getting the blacklist from StopModReposts.org...
+[17:23:17] INFO: Successfully downloaded the file on attempt number 1.
+
+==================================================
+[17:23:17] INFO: NAME:   Angelica
+[17:23:17] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/angelica-1.0.0-beta4.jar
+[17:23:17] INFO: SIDE:   client
+[17:23:17] INFO: TYPE:   url
+[17:23:17] INFO: OPTIONAL:   false
+[17:23:17] INFO: URL:   https://github.com/GTNewHorizons/Angelica/releases/download/1.0.0-beta4/angelica-1.0.0-beta4.jar
+[17:23:17] INFO: Attempting to download the resource Angelica... (1/230 resources)
+[17:23:19] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:19] INFO: NAME:   UniMixins
+[17:23:19] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/_unimixins-all-1.7.10-0.1.17.jar
+[17:23:19] INFO: SIDE:   both
+[17:23:19] INFO: TYPE:   modrinth
+[17:23:19] INFO: OPTIONAL:   false
+[17:23:19] INFO: PROJECTID:   ghjoiQAl
+[17:23:19] INFO: VERSIONID:   7iC7nIQ2
+[17:23:19] INFO: FILEID:   null
+[17:23:19] INFO: SOURCEFILENAME:   +unimixins-all-1.7.10-0.1.17.jar
+[17:23:19] INFO: Attempting to download the resource UniMixins... (2/230 resources)
+[17:23:20] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:20] INFO: NAME:   CoreTweaks
+[17:23:20] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/CoreTweaks-1.7.10-0.3.3.2+nomixin.jar
+[17:23:20] INFO: SIDE:   client
+[17:23:20] INFO: TYPE:   url
+[17:23:20] INFO: OPTIONAL:   false
+[17:23:20] INFO: URL:   https://github.com/makamys/CoreTweaks/releases/download/0.3.3.2/CoreTweaks-1.7.10-0.3.3.2+nomixin.jar
+[17:23:20] INFO: SHA-512:   648810f242314a2ae3b203539aa6be437e71c04dc40ec3960a3f2003ee6716ddcc8422bfc98eafc2ec2e3e64ec81d4b3f04abff961ebcaf61f6ad21912dcb727
+[17:23:20] INFO: Attempting to download the resource CoreTweaks... (3/230 resources)
+==================================================
+
+==================================================
+[17:23:20] INFO: NAME:   FalseTweaks
+[17:23:20] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/falsetweaks-mc1.7.10-3.1.1.jar
+[17:23:20] INFO: SIDE:   both
+[17:23:20] INFO: TYPE:   modrinth
+[17:23:20] INFO: OPTIONAL:   false
+[17:23:20] INFO: PROJECTID:   VTGi3upD
+[17:23:20] INFO: VERSIONID:   UCeU6Iuu
+[17:23:20] INFO: FILEID:   null
+[17:23:20] INFO: SOURCEFILENAME:   falsetweaks-mc1.7.10-3.1.1.jar
+[17:23:20] INFO: Attempting to download the resource FalseTweaks... (4/230 resources)
+[17:23:20] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:20] INFO: NAME:   FalsePatternLib
+[17:23:20] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/falsepatternlib-mc1.7.10-1.4.0.jar
+[17:23:20] INFO: SIDE:   both
+[17:23:20] INFO: TYPE:   modrinth
+[17:23:20] INFO: OPTIONAL:   false
+[17:23:20] INFO: PROJECTID:   eGLBEILf
+[17:23:20] INFO: VERSIONID:   nKnixo7l
+[17:23:20] INFO: FILEID:   null
+[17:23:20] INFO: SOURCEFILENAME:   falsepatternlib-mc1.7.10-1.4.0.jar
+[17:23:20] INFO: Attempting to download the resource FalsePatternLib... (5/230 resources)
+[17:23:20] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:20] INFO: NAME:   Entity Culling
+[17:23:20] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/entityculling-1.6.4-mc1.7.10.jar
+[17:23:20] INFO: SIDE:   client
+[17:23:20] INFO: TYPE:   modrinth
+[17:23:20] INFO: OPTIONAL:   false
+[17:23:20] INFO: PROJECTID:   NNAgCjsB
+[17:23:20] INFO: VERSIONID:   SLiFyIon
+[17:23:20] INFO: FILEID:   null
+[17:23:20] INFO: SOURCEFILENAME:   entityculling-1.6.4-mc1.7.10.jar
+[17:23:20] INFO: Attempting to download the resource Entity Culling... (6/230 resources)
+[17:23:21] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:21] INFO: NAME:   Hodgepodge
+[17:23:21] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/hodgepodge-2.5.45-pre.jar
+[17:23:21] INFO: SIDE:   both
+[17:23:21] INFO: TYPE:   modrinth
+[17:23:21] INFO: OPTIONAL:   false
+[17:23:21] INFO: PROJECTID:   6QQe8Ldy
+[17:23:21] INFO: VERSIONID:   nJnnVIEs
+[17:23:21] INFO: FILEID:   null
+[17:23:21] INFO: SOURCEFILENAME:   hodgepodge-2.5.45-pre.jar
+[17:23:21] INFO: Attempting to download the resource Hodgepodge... (7/230 resources)
+[17:23:21] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:21] INFO: NAME:   ArchaicFix
+[17:23:21] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/archaicfix-0.7.4.jar
+[17:23:21] INFO: SIDE:   both
+[17:23:21] INFO: TYPE:   modrinth
+[17:23:21] INFO: OPTIONAL:   false
+[17:23:21] INFO: PROJECTID:   xTJanN3v
+[17:23:21] INFO: VERSIONID:   k1XUuvSh
+[17:23:21] INFO: FILEID:   null
+[17:23:21] INFO: SOURCEFILENAME:   archaicfix-0.7.4.jar
+[17:23:21] INFO: Attempting to download the resource ArchaicFix... (8/230 resources)
+[17:23:21] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:21] INFO: NAME:   BugTorch
+[17:23:21] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/bugtorch-1.2.13.jar
+[17:23:21] INFO: SIDE:   both
+[17:23:21] INFO: TYPE:   modrinth
+[17:23:21] INFO: OPTIONAL:   false
+[17:23:21] INFO: PROJECTID:   6su8A6OH
+[17:23:21] INFO: VERSIONID:   6HgNiu8e
+[17:23:21] INFO: FILEID:   null
+[17:23:21] INFO: SOURCEFILENAME:   bugtorch-1.2.13.jar
+[17:23:21] INFO: Attempting to download the resource BugTorch... (9/230 resources)
+[17:23:21] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:21] INFO: NAME:   SerializationIsBad
+[17:23:21] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/serializationisbad-1.5.jar
+[17:23:21] INFO: SIDE:   both
+[17:23:21] INFO: TYPE:   modrinth
+[17:23:21] INFO: OPTIONAL:   false
+[17:23:21] INFO: PROJECTID:   TTZtsNrf
+[17:23:21] INFO: VERSIONID:   VP2av9A3
+[17:23:21] INFO: FILEID:   null
+[17:23:21] INFO: SOURCEFILENAME:   serializationisbad-1.5.jar
+[17:23:21] INFO: Attempting to download the resource SerializationIsBad... (10/230 resources)
+[17:23:22] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:22] INFO: NAME:   Healer
+[17:23:22] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Healer-1.2.1.jar
+[17:23:22] INFO: SIDE:   both
+[17:23:22] INFO: TYPE:   modrinth
+[17:23:22] INFO: OPTIONAL:   false
+[17:23:22] INFO: PROJECTID:   4Xu8f6VS
+[17:23:22] INFO: VERSIONID:   fowT683O
+[17:23:22] INFO: FILEID:   null
+[17:23:22] INFO: SOURCEFILENAME:   Healer-1.2.1.jar
+[17:23:22] INFO: Attempting to download the resource Healer... (11/230 resources)
+[17:23:22] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:22] INFO: NAME:   EndlessIDs
+[17:23:22] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/endlessids-mc1.7.10-1.5.3.jar
+[17:23:22] INFO: SIDE:   both
+[17:23:22] INFO: TYPE:   modrinth
+[17:23:22] INFO: OPTIONAL:   false
+[17:23:22] INFO: PROJECTID:   qGHY4QGo
+[17:23:22] INFO: VERSIONID:   nVxyGxcf
+[17:23:22] INFO: FILEID:   null
+[17:23:22] INFO: SOURCEFILENAME:   endlessids-mc1.7.10-1.5.3.jar
+[17:23:22] INFO: Attempting to download the resource EndlessIDs... (12/230 resources)
+[17:23:22] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:22] INFO: NAME:   ChunkAPI
+[17:23:22] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/chunkapi-mc1.7.10-0.5.1.jar
+[17:23:22] INFO: SIDE:   both
+[17:23:22] INFO: TYPE:   modrinth
+[17:23:22] INFO: OPTIONAL:   false
+[17:23:22] INFO: PROJECTID:   y0vBUOla
+[17:23:22] INFO: VERSIONID:   yria9oBC
+[17:23:22] INFO: FILEID:   null
+[17:23:22] INFO: SOURCEFILENAME:   chunkapi-mc1.7.10-0.5.1.jar
+[17:23:22] INFO: Attempting to download the resource ChunkAPI... (13/230 resources)
+[17:23:23] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:23] INFO: NAME:   AI Improvements
+[17:23:23] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/AIImprovements-1.7.10-0.0.1b19-dev.jar
+[17:23:23] INFO: SIDE:   both
+[17:23:23] INFO: TYPE:   curseforge
+[17:23:23] INFO: OPTIONAL:   false
+[17:23:23] INFO: PROJECTID:   233019
+[17:23:23] INFO: VERSIONID:   null
+[17:23:23] INFO: FILEID:   2252676
+[17:23:23] INFO: SOURCEFILENAME:   null
+[17:23:23] INFO: Attempting to download the resource AI Improvements... (14/230 resources)
+[17:23:23] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:23] INFO: NAME:   Better Line Break
+[17:23:23] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/BetterLineBreak-1.7.10(Forge)-1.0.1.jar
+[17:23:23] INFO: SIDE:   client
+[17:23:23] INFO: TYPE:   modrinth
+[17:23:23] INFO: OPTIONAL:   false
+[17:23:23] INFO: PROJECTID:   zp6DtFf2
+[17:23:23] INFO: VERSIONID:   Q0tbkBS8
+[17:23:23] INFO: FILEID:   null
+[17:23:23] INFO: SOURCEFILENAME:   BetterLineBreak-1.7.10(Forge)-1.0.1.jar
+[17:23:23] INFO: Attempting to download the resource Better Line Break... (15/230 resources)
+[17:23:23] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:23] INFO: NAME:   Modern KeyBinding
+[17:23:23] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/ModernKeyBinding-Forge-1.7.10-2.1.0.jar
+[17:23:23] INFO: SIDE:   client
+[17:23:23] INFO: TYPE:   modrinth
+[17:23:23] INFO: OPTIONAL:   false
+[17:23:23] INFO: PROJECTID:   rQszQPD2
+[17:23:23] INFO: VERSIONID:   IbFXGfVn
+[17:23:23] INFO: FILEID:   null
+[17:23:23] INFO: SOURCEFILENAME:   ModernKeyBinding-Forge-1.7.10-2.1.0.jar
+[17:23:23] INFO: Attempting to download the resource Modern KeyBinding... (16/230 resources)
+[17:23:23] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:23] INFO: NAME:   Backhand
+[17:23:23] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/backhand-1.4.0.jar
+[17:23:23] INFO: SIDE:   both
+[17:23:23] INFO: TYPE:   modrinth
+[17:23:23] INFO: OPTIONAL:   false
+[17:23:23] INFO: PROJECTID:   Dwz9syqF
+[17:23:23] INFO: VERSIONID:   lIOJTqrY
+[17:23:23] INFO: FILEID:   null
+[17:23:23] INFO: SOURCEFILENAME:   backhand-1.4.0.jar
+[17:23:23] INFO: Attempting to download the resource Backhand... (17/230 resources)
+[17:23:24] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:24] INFO: NAME:   Et Futurum Requiem
+[17:23:24] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Et_Futurum_Requiem-2.6.0.jar
+[17:23:24] INFO: SIDE:   both
+[17:23:24] INFO: TYPE:   modrinth
+[17:23:24] INFO: OPTIONAL:   false
+[17:23:24] INFO: PROJECTID:   o56psTwz
+[17:23:24] INFO: VERSIONID:   i2baYHfY
+[17:23:24] INFO: FILEID:   null
+[17:23:24] INFO: SOURCEFILENAME:   Et_Futurum_Requiem-2.6.0.jar
+[17:23:24] INFO: Attempting to download the resource Et Futurum Requiem... (18/230 resources)
+[17:23:24] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:24] INFO: NAME:   FloatingItems
+[17:23:24] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/FloatingItems-1.7.10-0.1.0.jar
+[17:23:24] INFO: SIDE:   both
+[17:23:24] INFO: TYPE:   curseforge
+[17:23:24] INFO: OPTIONAL:   false
+[17:23:24] INFO: PROJECTID:   549437
+[17:23:24] INFO: VERSIONID:   null
+[17:23:24] INFO: FILEID:   3536677
+[17:23:24] INFO: SOURCEFILENAME:   null
+[17:23:24] INFO: Attempting to download the resource FloatingItems... (19/230 resources)
+[17:23:24] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:24] INFO: NAME:   Modern Splash
+[17:23:24] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/modernsplash-1.7.10-2c17c9a.jar
+[17:23:24] INFO: SIDE:   client
+[17:23:24] INFO: TYPE:   modrinth
+[17:23:24] INFO: OPTIONAL:   false
+[17:23:24] INFO: PROJECTID:   WQC4Wtzw
+[17:23:24] INFO: VERSIONID:   loV1tjaN
+[17:23:24] INFO: FILEID:   null
+[17:23:24] INFO: SOURCEFILENAME:   modernsplash-1.7.10-2c17c9a.jar
+[17:23:24] INFO: Attempting to download the resource Modern Splash... (20/230 resources)
+[17:23:24] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:24] INFO: NAME:   NetheritePlus+
+[17:23:24] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/NetheritePlus_1.7.10_Beta0.9.jar
+[17:23:24] INFO: SIDE:   both
+[17:23:24] INFO: TYPE:   curseforge
+[17:23:24] INFO: OPTIONAL:   false
+[17:23:24] INFO: PROJECTID:   376911
+[17:23:24] INFO: VERSIONID:   null
+[17:23:24] INFO: FILEID:   2983061
+[17:23:24] INFO: SOURCEFILENAME:   null
+[17:23:24] INFO: Attempting to download the resource NetheritePlus+... (21/230 resources)
+[17:23:24] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:24] INFO: NAME:   AkutoLib
+[17:23:24] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/AkutoLib-1.0.5.jar
+[17:23:24] INFO: SIDE:   both
+[17:23:24] INFO: TYPE:   curseforge
+[17:23:24] INFO: OPTIONAL:   false
+[17:23:24] INFO: PROJECTID:   304964
+[17:23:24] INFO: VERSIONID:   null
+[17:23:24] INFO: FILEID:   3246401
+[17:23:24] INFO: SOURCEFILENAME:   null
+[17:23:24] INFO: Attempting to download the resource AkutoLib... (22/230 resources)
+[17:23:25] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:25] INFO: NAME:   AnimationAPI
+[17:23:25] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/AnimationAPI-1.7.10-1.2.4.jar
+[17:23:25] INFO: SIDE:   both
+[17:23:25] INFO: TYPE:   curseforge
+[17:23:25] INFO: OPTIONAL:   false
+[17:23:25] INFO: PROJECTID:   77191
+[17:23:25] INFO: VERSIONID:   null
+[17:23:25] INFO: FILEID:   2221721
+[17:23:25] INFO: SOURCEFILENAME:   null
+[17:23:25] INFO: Attempting to download the resource AnimationAPI... (23/230 resources)
+[17:23:25] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:25] INFO: NAME:   Aroma1997Core
+[17:23:25] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Aroma1997Core-1.7.10-1.0.2.16.jar
+[17:23:25] INFO: SIDE:   both
+[17:23:25] INFO: TYPE:   curseforge
+[17:23:25] INFO: OPTIONAL:   false
+[17:23:25] INFO: PROJECTID:   223735
+[17:23:25] INFO: VERSIONID:   null
+[17:23:25] INFO: FILEID:   2257644
+[17:23:25] INFO: SOURCEFILENAME:   null
+[17:23:25] INFO: Attempting to download the resource Aroma1997Core... (24/230 resources)
+[17:23:25] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:25] INFO: NAME:   bdlib
+[17:23:25] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/bdlib-1.10.0-GTNH.jar
+[17:23:25] INFO: SIDE:   both
+[17:23:25] INFO: TYPE:   url
+[17:23:25] INFO: OPTIONAL:   false
+[17:23:25] INFO: URL:   https://github.com/GTNewHorizons/bdlib/releases/download/1.10.0-GTNH/bdlib-1.10.0-GTNH.jar
+[17:23:25] INFO: Attempting to download the resource bdlib... (25/230 resources)
+[17:23:25] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:25] INFO: NAME:   BrandonsCore
+[17:23:25] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/BrandonsCore-1.2.0-GTNH.jar
+[17:23:25] INFO: SIDE:   both
+[17:23:25] INFO: TYPE:   url
+[17:23:25] INFO: OPTIONAL:   false
+[17:23:25] INFO: URL:   https://github.com/GTNewHorizons/BrandonsCore/releases/download/1.2.0-GTNH/BrandonsCore-1.2.0-GTNH.jar
+[17:23:25] INFO: Attempting to download the resource BrandonsCore... (26/230 resources)
+[17:23:27] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:27] INFO: NAME:   ChunkAPI
+[17:23:27] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/chunkapi-mc1.7.10-0.5.1.jar
+[17:23:27] INFO: SIDE:   both
+[17:23:27] INFO: TYPE:   modrinth
+[17:23:27] INFO: OPTIONAL:   false
+[17:23:27] INFO: PROJECTID:   y0vBUOla
+[17:23:27] INFO: VERSIONID:   yria9oBC
+[17:23:27] INFO: FILEID:   null
+[17:23:27] INFO: SOURCEFILENAME:   chunkapi-mc1.7.10-0.5.1.jar
+[17:23:27] INFO: Attempting to download the resource ChunkAPI... (27/230 resources)
+[17:23:27] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:27] INFO: NAME:   CodeChickenCore
+[17:23:27] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/CodeChickenCore-1.3.6.jar
+[17:23:27] INFO: SIDE:   both
+[17:23:27] INFO: TYPE:   modrinth
+[17:23:27] INFO: OPTIONAL:   false
+[17:23:27] INFO: PROJECTID:   qMOdaUOs
+[17:23:27] INFO: VERSIONID:   VEX8yogi
+[17:23:27] INFO: FILEID:   null
+[17:23:27] INFO: SOURCEFILENAME:   CodeChickenCore-1.3.6.jar
+[17:23:27] INFO: Attempting to download the resource CodeChickenCore... (28/230 resources)
+[17:23:27] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:27] INFO: NAME:   CoFH Core
+[17:23:27] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/CoFHCore-[1.7.10]3.1.4-329.jar
+[17:23:27] INFO: SIDE:   both
+[17:23:27] INFO: TYPE:   curseforge
+[17:23:27] INFO: OPTIONAL:   false
+[17:23:27] INFO: PROJECTID:   69162
+[17:23:27] INFO: VERSIONID:   null
+[17:23:27] INFO: FILEID:   2388750
+[17:23:27] INFO: SOURCEFILENAME:   null
+[17:23:27] INFO: Attempting to download the resource CoFH Core... (29/230 resources)
+[17:23:27] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:27] INFO: NAME:   CoFH Lib
+[17:23:27] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/CoFHLib-[1.7.10]1.2.1-185.jar
+[17:23:27] INFO: SIDE:   both
+[17:23:27] INFO: TYPE:   curseforge
+[17:23:27] INFO: OPTIONAL:   false
+[17:23:27] INFO: PROJECTID:   220333
+[17:23:27] INFO: VERSIONID:   null
+[17:23:27] INFO: FILEID:   2388747
+[17:23:27] INFO: SOURCEFILENAME:   null
+[17:23:27] INFO: Attempting to download the resource CoFH Lib... (30/230 resources)
+[17:23:27] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:27] INFO: NAME:   ElecCore
+[17:23:27] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/ElecCore-1.7.10-1.4.294.jar
+[17:23:27] INFO: SIDE:   both
+[17:23:27] INFO: TYPE:   curseforge
+[17:23:27] INFO: OPTIONAL:   false
+[17:23:27] INFO: PROJECTID:   227391
+[17:23:27] INFO: VERSIONID:   null
+[17:23:27] INFO: FILEID:   2309856
+[17:23:27] INFO: SOURCEFILENAME:   null
+[17:23:27] INFO: Attempting to download the resource ElecCore... (31/230 resources)
+[17:23:28] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:28] INFO: NAME:   EnderCore
+[17:23:28] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/endercore-0.4.6.jar
+[17:23:28] INFO: SIDE:   both
+[17:23:28] INFO: TYPE:   url
+[17:23:28] INFO: OPTIONAL:   false
+[17:23:28] INFO: URL:   https://github.com/GTNewHorizons/EnderCore/releases/download/0.4.6/endercore-0.4.6.jar
+[17:23:28] INFO: Attempting to download the resource EnderCore... (32/230 resources)
+[17:23:29] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:29] INFO: NAME:   Mantle
+[17:23:29] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Mantle-0.4.1.jar
+[17:23:29] INFO: SIDE:   both
+[17:23:29] INFO: TYPE:   url
+[17:23:29] INFO: OPTIONAL:   false
+[17:23:29] INFO: URL:   https://github.com/GTNewHorizons/Mantle/releases/download/0.4.1/Mantle-0.4.1.jar
+[17:23:29] INFO: Attempting to download the resource Mantle... (33/230 resources)
+[17:23:30] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:30] INFO: NAME:   McJtyLib
+[17:23:30] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/mcjtylib-1.8.1.jar
+[17:23:30] INFO: SIDE:   both
+[17:23:30] INFO: TYPE:   curseforge
+[17:23:30] INFO: OPTIONAL:   false
+[17:23:30] INFO: PROJECTID:   233105
+[17:23:30] INFO: VERSIONID:   null
+[17:23:30] INFO: FILEID:   2272449
+[17:23:30] INFO: SOURCEFILENAME:   null
+[17:23:30] INFO: Attempting to download the resource McJtyLib... (34/230 resources)
+[17:23:30] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:30] INFO: NAME:   OpenModsLib
+[17:23:30] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/OpenModsLibs-0.10.9.jar
+[17:23:30] INFO: SIDE:   both
+[17:23:30] INFO: TYPE:   url
+[17:23:30] INFO: OPTIONAL:   false
+[17:23:30] INFO: URL:   https://github.com/GTNewHorizons/OpenModsLib/releases/download/0.10.9/OpenModsLibs-0.10.9.jar
+[17:23:30] INFO: Attempting to download the resource OpenModsLib... (35/230 resources)
+[17:23:31] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:31] INFO: NAME:   PlayerAPI
+[17:23:31] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/PlayerAPI-1.5.0.jar
+[17:23:31] INFO: SIDE:   both
+[17:23:31] INFO: TYPE:   url
+[17:23:31] INFO: OPTIONAL:   false
+[17:23:31] INFO: URL:   https://github.com/GTNewHorizons/Player-API/releases/download/1.5.0/PlayerAPI-1.5.0.jar
+[17:23:31] INFO: Attempting to download the resource PlayerAPI... (36/230 resources)
+[17:23:32] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:32] INFO: NAME:   WanionLib
+[17:23:32] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/WanionLib-1.9.0.jar
+[17:23:32] INFO: SIDE:   both
+[17:23:32] INFO: TYPE:   url
+[17:23:32] INFO: OPTIONAL:   false
+[17:23:32] INFO: URL:   https://github.com/GTNewHorizons/WanionLib/releases/download/1.9.0/WanionLib-1.9.0.jar
+[17:23:32] INFO: Attempting to download the resource WanionLib... (37/230 resources)
+[17:23:33] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:23:33] INFO: NAME:   GTNH Lib
+[17:23:33] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/gtnhlib-0.4.2.jar
+[17:23:33] INFO: SIDE:   both
+[17:23:33] INFO: TYPE:   modrinth
+[17:23:33] INFO: OPTIONAL:   false
+[17:23:33] INFO: PROJECTID:   vTvnv7qp
+[17:23:33] INFO: VERSIONID:   AWAlA3XU
+[17:23:33] INFO: FILEID:   null
+[17:23:33] INFO: SOURCEFILENAME:   gtnhlib-0.4.2.jar
+[17:23:33] INFO: Attempting to download the resource GTNH Lib... (38/230 resources)
+[17:25:46] INFO: An error occurred while downloading the file, trying again...
+[17:25:48] INFO: Successfully downloaded the file on attempt number 2.
+==================================================
+
+==================================================
+[17:25:48] INFO: NAME:   MCEconomy2
+[17:25:48] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/MCEconomy2-2.5.4.a-1.7.0.jar
+[17:25:48] INFO: SIDE:   both
+[17:25:48] INFO: TYPE:   curseforge
+[17:25:48] INFO: OPTIONAL:   false
+[17:25:48] INFO: PROJECTID:   242484
+[17:25:48] INFO: VERSIONID:   null
+[17:25:48] INFO: FILEID:   2294405
+[17:25:48] INFO: SOURCEFILENAME:   null
+[17:25:48] INFO: Attempting to download the resource MCEconomy2... (39/230 resources)
+[17:25:48] INFO: Successfully downloaded the file on attempt number 1.
+[17:25:48] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:25:48] INFO: NAME:   bspkrsCore
+[17:25:48] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/[1.7.10]bspkrsCore-universal-6.16.jar
+[17:25:48] INFO: SIDE:   both
+[17:25:48] INFO: TYPE:   curseforge
+[17:25:48] INFO: OPTIONAL:   false
+[17:25:48] INFO: PROJECTID:   59218
+[17:25:48] INFO: VERSIONID:   null
+[17:25:48] INFO: FILEID:   2227503
+[17:25:48] INFO: SOURCEFILENAME:   null
+[17:25:48] INFO: Attempting to download the resource bspkrsCore... (40/230 resources)
+[17:25:49] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:25:49] INFO: NAME:   Sonar Core
+[17:25:49] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/SonarCore-1.7.10-1.1.3.jar
+[17:25:49] INFO: SIDE:   both
+[17:25:49] INFO: TYPE:   curseforge
+[17:25:49] INFO: OPTIONAL:   false
+[17:25:49] INFO: PROJECTID:   239418
+[17:25:49] INFO: VERSIONID:   null
+[17:25:49] INFO: FILEID:   2306173
+[17:25:49] INFO: SOURCEFILENAME:   null
+[17:25:49] INFO: Attempting to download the resource Sonar Core... (41/230 resources)
+[17:25:49] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:25:49] INFO: NAME:   CraftTweaker
+[17:25:49] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/CraftTweaker-3.3.1.jar
+[17:25:49] INFO: SIDE:   both
+[17:25:49] INFO: TYPE:   url
+[17:25:49] INFO: OPTIONAL:   false
+[17:25:49] INFO: URL:   https://github.com/GTNewHorizons/CraftTweaker/releases/download/3.3.1/CraftTweaker-3.3.1.jar
+[17:25:49] INFO: Attempting to download the resource CraftTweaker... (42/230 resources)
+[17:25:50] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:25:50] INFO: NAME:   ModTweaker
+[17:25:50] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/ModTweaker2-0.11.0.jar
+[17:25:50] INFO: SIDE:   both
+[17:25:50] INFO: TYPE:   url
+[17:25:50] INFO: OPTIONAL:   false
+[17:25:50] INFO: URL:   https://github.com/GTNewHorizons/ModTweaker/releases/download/0.11.0/ModTweaker2-0.11.0.jar
+[17:25:50] INFO: Attempting to download the resource ModTweaker... (43/230 resources)
+[17:25:51] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:25:51] INFO: NAME:   ProjectRed
+[17:25:51] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/ProjRed-4.10.2-GTNH.jar
+[17:25:51] INFO: SIDE:   both
+[17:25:51] INFO: TYPE:   url
+[17:25:51] INFO: OPTIONAL:   false
+[17:25:51] INFO: URL:   https://github.com/GTNewHorizons/ProjectRed/releases/download/4.10.2-GTNH/ProjRed-4.10.2-GTNH.jar
+[17:25:51] INFO: Attempting to download the resource ProjectRed... (44/230 resources)
+[17:25:54] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:25:54] INFO: NAME:   WirelessRedstone-CBE
+[17:25:54] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/WR-CBE-1.6.0.jar
+[17:25:54] INFO: SIDE:   both
+[17:25:54] INFO: TYPE:   url
+[17:25:54] INFO: OPTIONAL:   false
+[17:25:54] INFO: URL:   https://github.com/GTNewHorizons/WirelessRedstone-CBE/releases/download/1.6.0/WR-CBE-1.6.0.jar
+[17:25:54] INFO: Attempting to download the resource WirelessRedstone-CBE... (45/230 resources)
+[17:25:56] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:25:56] INFO: NAME:   JourneyMap
+[17:25:56] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/journeymap-1.7.10-5.2.5-unlimited.jar
+[17:25:56] INFO: SIDE:   both
+[17:25:56] INFO: TYPE:   modrinth
+[17:25:56] INFO: OPTIONAL:   false
+[17:25:56] INFO: PROJECTID:   lfHFW1mp
+[17:25:56] INFO: VERSIONID:   jPs0YHtG
+[17:25:56] INFO: FILEID:   null
+[17:25:56] INFO: SOURCEFILENAME:   journeymap-1.7.10-5.2.5-unlimited.jar
+[17:25:56] INFO: Attempting to download the resource JourneyMap... (46/230 resources)
+[17:25:56] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:25:56] INFO: NAME:   Another one bites the dust
+[17:25:56] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/AOBD-2.9.2.jar
+[17:25:56] INFO: SIDE:   both
+[17:25:56] INFO: TYPE:   curseforge
+[17:25:56] INFO: OPTIONAL:   false
+[17:25:56] INFO: PROJECTID:   221863
+[17:25:56] INFO: VERSIONID:   null
+[17:25:56] INFO: FILEID:   2305237
+[17:25:56] INFO: SOURCEFILENAME:   null
+[17:25:56] INFO: Attempting to download the resource Another one bites the dust... (47/230 resources)
+[17:25:56] INFO: Successfully downloaded the file on attempt number 1.
+[17:25:56] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:25:56] INFO: NAME:   AppleCore
+[17:25:56] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/AppleCore-3.2.12.jar
+[17:25:56] INFO: SIDE:   both
+[17:25:56] INFO: TYPE:   modrinth
+[17:25:56] INFO: OPTIONAL:   false
+[17:25:56] INFO: PROJECTID:   c3I7Akgu
+[17:25:56] INFO: VERSIONID:   zJ1582wR
+[17:25:56] INFO: FILEID:   null
+[17:25:56] INFO: SOURCEFILENAME:   AppleCore-3.2.12.jar
+[17:25:56] INFO: Attempting to download the resource AppleCore... (48/230 resources)
+[17:25:57] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:25:57] INFO: NAME:   AppleMilkTea2
+[17:25:57] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/AppleMilkTea2-1.7.10_2.9n.jar
+[17:25:57] INFO: SIDE:   both
+[17:25:57] INFO: TYPE:   url
+[17:25:57] INFO: OPTIONAL:   false
+[17:25:57] INFO: URL:   https://github.com/erialsan/AppleMilkTea2--/releases/download/2.10/AppleMilkTea2-1.7.10_2.9n.jar
+[17:25:57] INFO: Attempting to download the resource AppleMilkTea2... (49/230 resources)
+[17:25:58] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:25:58] INFO: NAME:   Backpack
+[17:25:58] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/backpack-2.0.1-1.7.x.jar
+[17:25:58] INFO: SIDE:   both
+[17:25:58] INFO: TYPE:   curseforge
+[17:25:58] INFO: OPTIONAL:   false
+[17:25:58] INFO: PROJECTID:   59143
+[17:25:58] INFO: VERSIONID:   null
+[17:25:58] INFO: FILEID:   2268883
+[17:25:58] INFO: SOURCEFILENAME:   null
+[17:25:58] INFO: Attempting to download the resource Backpack... (50/230 resources)
+[17:25:58] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:25:58] INFO: NAME:   Baubles
+[17:25:58] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/Baubles-1.0.4.jar
+[17:25:58] INFO: SIDE:   both
+[17:25:58] INFO: TYPE:   url
+[17:25:58] INFO: OPTIONAL:   false
+[17:25:58] INFO: URL:   https://github.com/GTNewHorizons/Baubles/releases/download/1.0.4/Baubles-1.0.4.jar
+[17:25:58] INFO: Attempting to download the resource Baubles... (51/230 resources)
+[17:25:59] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:25:59] INFO: NAME:   BetterBedrockGen
+[17:25:59] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/BBG-1.0.0.jar
+[17:25:59] INFO: SIDE:   both
+[17:25:59] INFO: TYPE:   curseforge
+[17:25:59] INFO: OPTIONAL:   false
+[17:25:59] INFO: PROJECTID:   223275
+[17:25:59] INFO: VERSIONID:   null
+[17:25:59] INFO: FILEID:   2211353
+[17:25:59] INFO: SOURCEFILENAME:   null
+[17:25:59] INFO: Attempting to download the resource BetterBedrockGen... (52/230 resources)
+[17:25:59] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:25:59] INFO: NAME:   Chicken Chunks
+[17:25:59] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/ChickenChunks-1.7.10-1.3.4.19-universal.jar
+[17:25:59] INFO: SIDE:   both
+[17:25:59] INFO: TYPE:   modrinth
+[17:25:59] INFO: OPTIONAL:   false
+[17:25:59] INFO: PROJECTID:   2JkvF271
+[17:25:59] INFO: VERSIONID:   2oZouxrJ
+[17:25:59] INFO: FILEID:   null
+[17:25:59] INFO: SOURCEFILENAME:   null
+[17:25:59] INFO: Attempting to download the resource Chicken Chunks... (53/230 resources)
+[17:26:0] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:0] INFO: NAME:   Controlling
+[17:26:0] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/controlling-2.1.0.jar
+[17:26:0] INFO: SIDE:   client
+[17:26:0] INFO: TYPE:   url
+[17:26:0] INFO: OPTIONAL:   false
+[17:26:0] INFO: URL:   https://github.com/GTNewHorizons/Controlling/releases/download/2.1.0/controlling-2.1.0.jar
+[17:26:0] INFO: Attempting to download the resource Controlling... (54/230 resources)
+[17:26:1] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:1] INFO: NAME:   Cubic Villager
+[17:26:1] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/CubicVillager-0.28.jar
+[17:26:1] INFO: SIDE:   both
+[17:26:1] INFO: TYPE:   curseforge
+[17:26:1] INFO: OPTIONAL:   false
+[17:26:1] INFO: PROJECTID:   238287
+[17:26:1] INFO: VERSIONID:   null
+[17:26:1] INFO: FILEID:   2272581
+[17:26:1] INFO: SOURCEFILENAME:   null
+[17:26:1] INFO: Attempting to download the resource Cubic Villager... (55/230 resources)
+[17:26:1] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:1] INFO: NAME:   Faucet
+[17:26:1] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/[1.7.x]Faucet Forge v1.0.2a.zip
+[17:26:1] INFO: SIDE:   both
+[17:26:1] INFO: TYPE:   url
+[17:26:1] INFO: OPTIONAL:   false
+[17:26:1] INFO: URL:   https://web.archive.org/web/20190715191354/https://forum.minecraftuser.jp/download/file.php?id=47086
+[17:26:1] INFO: Attempting to download the resource Faucet... (56/230 resources)
+[17:26:2] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:2] INFO: NAME:   FogNerf
+[17:26:2] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/fognerf-1.7.10-0.4.jar
+[17:26:2] INFO: SIDE:   client
+[17:26:2] INFO: TYPE:   curseforge
+[17:26:2] INFO: OPTIONAL:   false
+[17:26:2] INFO: PROJECTID:   221849
+[17:26:2] INFO: VERSIONID:   null
+[17:26:2] INFO: FILEID:   2216790
+[17:26:2] INFO: SOURCEFILENAME:   null
+[17:26:2] INFO: Attempting to download the resource FogNerf... (57/230 resources)
+[17:26:2] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:2] INFO: NAME:   GTNEIOrePlugin
+[17:26:2] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/GTNIOrePlugin-PistonEdition-1.7.10-1.1.1.jar
+[17:26:2] INFO: SIDE:   both
+[17:26:2] INFO: TYPE:   url
+[17:26:2] INFO: OPTIONAL:   false
+[17:26:2] INFO: URL:   https://github.com/NinthTechMC/GTNEIOrePlugin/releases/download/v1.1.1/GTNIOrePlugin-PistonEdition-1.7.10-1.1.1.jar
+[17:26:2] INFO: Attempting to download the resource GTNEIOrePlugin... (58/230 resources)
+[17:26:3] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:3] INFO: NAME:   HoloInventory
+[17:26:3] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/holoinventory-2.4.12-GTNH.jar
+[17:26:3] INFO: SIDE:   both
+[17:26:3] INFO: TYPE:   url
+[17:26:3] INFO: OPTIONAL:   false
+[17:26:3] INFO: URL:   https://github.com/GTNewHorizons/HoloInventory/releases/download/2.4.12-GTNH/holoinventory-2.4.12-GTNH.jar
+[17:26:3] INFO: Attempting to download the resource HoloInventory... (59/230 resources)
+[17:26:4] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:4] INFO: NAME:   IC2 Crop-Breeding Plugin
+[17:26:4] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/IC2-Crop-Plugin-Version-1.7.10-1.3.1.jar
+[17:26:4] INFO: SIDE:   both
+[17:26:4] INFO: TYPE:   curseforge
+[17:26:4] INFO: OPTIONAL:   false
+[17:26:4] INFO: PROJECTID:   236609
+[17:26:4] INFO: VERSIONID:   null
+[17:26:4] INFO: FILEID:   2941926
+[17:26:4] INFO: SOURCEFILENAME:   null
+[17:26:4] INFO: Attempting to download the resource IC2 Crop-Breeding Plugin... (60/230 resources)
+[17:26:5] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:5] INFO: NAME:   InGame-Info-XML
+[17:26:5] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/InGameInfoXML-2.8.9-pre.jar
+[17:26:5] INFO: SIDE:   both
+[17:26:5] INFO: TYPE:   url
+[17:26:5] INFO: OPTIONAL:   false
+[17:26:5] INFO: URL:   https://github.com/GTNewHorizons/InGame-Info-XML/releases/download/2.8.9-pre/InGameInfoXML-2.8.9-pre.jar
+[17:26:5] INFO: Attempting to download the resource InGame-Info-XML... (61/230 resources)
+[17:26:6] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:6] INFO: NAME:   IntelliInput
+[17:26:6] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/IntelliInput-2.6-for1.7.10.jar
+[17:26:6] INFO: SIDE:   client
+[17:26:6] INFO: TYPE:   url
+[17:26:6] INFO: OPTIONAL:   false
+[17:26:6] INFO: URL:   http://mcc.mcsv.jp/Files/IntelliInput/IntelliInput-2.6-for1.7.10.jar
+[17:26:6] INFO: Attempting to download the resource IntelliInput... (62/230 resources)
+[17:26:7] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:7] INFO: NAME:   inventory tweaks
+[17:26:7] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/inventorytweaks-1.6.2.jar
+[17:26:7] INFO: SIDE:   client
+[17:26:7] INFO: TYPE:   url
+[17:26:7] INFO: OPTIONAL:   false
+[17:26:7] INFO: URL:   https://github.com/GTNewHorizons/inventory-tweaks/releases/download/1.6.2/inventorytweaks-1.6.2.jar
+[17:26:7] INFO: Attempting to download the resource inventory tweaks... (63/230 resources)
+[17:26:7] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:7] INFO: NAME:   ItemUntranslator4GTNH
+[17:26:7] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/ItemUntranslator4GTNH-0.0.1.jar
+[17:26:7] INFO: SIDE:   client
+[17:26:7] INFO: TYPE:   url
+[17:26:7] INFO: OPTIONAL:   false
+[17:26:7] INFO: URL:   https://github.com/c7na/ItemUntranslator4GTNH/releases/download/0.0.1/ItemUntranslator4GTNH-0.0.1.jar
+[17:26:7] INFO: Attempting to download the resource ItemUntranslator4GTNH... (64/230 resources)
+[17:26:8] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:8] INFO: NAME:   MineMenu
+[17:26:8] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/MineMenu-1.7.10-1.2.0.B44-universal.jar
+[17:26:8] INFO: SIDE:   client
+[17:26:8] INFO: TYPE:   curseforge
+[17:26:8] INFO: OPTIONAL:   false
+[17:26:8] INFO: PROJECTID:   222378
+[17:26:8] INFO: VERSIONID:   null
+[17:26:8] INFO: FILEID:   2214959
+[17:26:8] INFO: SOURCEFILENAME:   null
+[17:26:8] INFO: Attempting to download the resource MineMenu... (65/230 resources)
+[17:26:8] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:8] INFO: NAME:   MmmMmmMmmMmm
+[17:26:8] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/MmmMmmMmmMmm-1.7.10-1.9.jar
+[17:26:8] INFO: SIDE:   both
+[17:26:8] INFO: TYPE:   curseforge
+[17:26:8] INFO: OPTIONAL:   false
+[17:26:8] INFO: PROJECTID:   225738
+[17:26:8] INFO: VERSIONID:   null
+[17:26:8] INFO: FILEID:   2265493
+[17:26:8] INFO: SOURCEFILENAME:   null
+[17:26:8] INFO: Attempting to download the resource MmmMmmMmmMmm... (66/230 resources)
+[17:26:8] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:8] INFO: NAME:   NameWakander
+[17:26:8] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/NameWakander-1.15.1-1.3.9.jar
+[17:26:8] INFO: SIDE:   client
+[17:26:8] INFO: TYPE:   url
+[17:26:8] INFO: OPTIONAL:   false
+[17:26:8] INFO: URL:   https://github.com/aksource/NameWakander/releases/download/1.15.1-1.3.9/NameWakander-1.15.1-1.3.9.jar
+[17:26:8] INFO: Attempting to download the resource NameWakander... (67/230 resources)
+[17:26:9] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:9] INFO: NAME:   Nature's Compass
+[17:26:9] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/NaturesCompass-1.7.10-1.3.1-forge.jar
+[17:26:9] INFO: SIDE:   both
+[17:26:9] INFO: TYPE:   modrinth
+[17:26:9] INFO: OPTIONAL:   false
+[17:26:9] INFO: PROJECTID:   fPetb5Kh
+[17:26:9] INFO: VERSIONID:   Oq29B6p7
+[17:26:9] INFO: FILEID:   null
+[17:26:9] INFO: SOURCEFILENAME:   null
+[17:26:9] INFO: Attempting to download the resource Nature's Compass... (68/230 resources)
+[17:26:9] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:9] INFO: NAME:   NotEnoughItems
+[17:26:9] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/NotEnoughItems-2.6.24-GTNH-pre.jar
+[17:26:9] INFO: SIDE:   client
+[17:26:9] INFO: TYPE:   url
+[17:26:9] INFO: OPTIONAL:   false
+[17:26:9] INFO: URL:   https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.6.24-GTNH-pre/NotEnoughItems-2.6.24-GTNH-pre.jar
+[17:26:9] INFO: Attempting to download the resource NotEnoughItems... (69/230 resources)
+[17:26:11] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:11] INFO: NAME:   neiaddons
+[17:26:11] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/NEIAddons-1.16.0.jar
+[17:26:11] INFO: SIDE:   client
+[17:26:11] INFO: TYPE:   url
+[17:26:11] INFO: OPTIONAL:   false
+[17:26:11] INFO: URL:   https://github.com/GTNewHorizons/neiaddons/releases/download/1.16.0/NEIAddons-1.16.0.jar
+[17:26:11] INFO: Attempting to download the resource neiaddons... (70/230 resources)
+[17:26:12] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:12] INFO: NAME:   NEI-Integration
+[17:26:12] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/NEIIntegration-1.4.0.jar
+[17:26:12] INFO: SIDE:   client
+[17:26:12] INFO: TYPE:   url
+[17:26:12] INFO: OPTIONAL:   false
+[17:26:12] INFO: URL:   https://github.com/GTNewHorizons/NEI-Integration/releases/download/1.4.0/NEIIntegration-1.4.0.jar
+[17:26:12] INFO: Attempting to download the resource NEI-Integration... (71/230 resources)
+[17:26:12] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:12] INFO: NAME:   No Bat
+[17:26:12] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/No-Bat-1.0.jar
+[17:26:12] INFO: SIDE:   both
+[17:26:12] INFO: TYPE:   curseforge
+[17:26:12] INFO: OPTIONAL:   false
+[17:26:12] INFO: PROJECTID:   245121
+[17:26:12] INFO: VERSIONID:   null
+[17:26:12] INFO: FILEID:   2300166
+[17:26:12] INFO: SOURCEFILENAME:   null
+[17:26:12] INFO: Attempting to download the resource No Bat... (72/230 resources)
+[17:26:12] INFO: Successfully downloaded the file on attempt number 1.
+[17:26:12] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:12] INFO: NAME:   No Mob Spawning on Trees
+[17:26:12] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/NoMobSpawningOnTrees-1.2.0-mc1.7.10.jar
+[17:26:12] INFO: SIDE:   both
+[17:26:12] INFO: TYPE:   curseforge
+[17:26:12] INFO: OPTIONAL:   false
+[17:26:12] INFO: PROJECTID:   226779
+[17:26:12] INFO: VERSIONID:   null
+[17:26:12] INFO: FILEID:   2362270
+[17:26:12] INFO: SOURCEFILENAME:   null
+[17:26:12] INFO: Attempting to download the resource No Mob Spawning on Trees... (73/230 resources)
+[17:26:13] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:13] INFO: NAME:   NotEnoughEnergistics
+[17:26:13] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/NotEnoughEnergistics-1.6.2-pre.jar
+[17:26:13] INFO: SIDE:   both
+[17:26:13] INFO: TYPE:   url
+[17:26:13] INFO: OPTIONAL:   false
+[17:26:13] INFO: URL:   https://github.com/GTNewHorizons/NotEnoughEnergistics/releases/download/1.6.2-pre/NotEnoughEnergistics-1.6.2-pre.jar
+[17:26:13] INFO: Attempting to download the resource NotEnoughEnergistics... (74/230 resources)
+[17:26:14] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:14] INFO: NAME:   NotEnoughResources
+[17:26:14] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/NotEnoughResources-1.7.10-0.1.0-128.jar
+[17:26:14] INFO: SIDE:   both
+[17:26:14] INFO: TYPE:   curseforge
+[17:26:14] INFO: OPTIONAL:   false
+[17:26:14] INFO: PROJECTID:   225815
+[17:26:14] INFO: VERSIONID:   null
+[17:26:14] INFO: FILEID:   2323485
+[17:26:14] INFO: SOURCEFILENAME:   null
+[17:26:14] INFO: Attempting to download the resource NotEnoughResources... (75/230 resources)
+[17:26:14] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:14] INFO: NAME:   OpenBlocks
+[17:26:14] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/OpenBlocks-1.10.0-GTNH.jar
+[17:26:14] INFO: SIDE:   both
+[17:26:14] INFO: TYPE:   url
+[17:26:14] INFO: OPTIONAL:   false
+[17:26:14] INFO: URL:   https://github.com/GTNewHorizons/OpenBlocks/releases/download/1.10.0-GTNH/OpenBlocks-1.10.0-GTNH.jar
+[17:26:14] INFO: Attempting to download the resource OpenBlocks... (76/230 resources)
+[17:26:15] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:15] INFO: NAME:   Personal Space
+[17:26:15] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/personalspace-1.0.32.jar
+[17:26:15] INFO: SIDE:   both
+[17:26:15] INFO: TYPE:   modrinth
+[17:26:15] INFO: OPTIONAL:   false
+[17:26:15] INFO: PROJECTID:   ZnGlaJ2R
+[17:26:15] INFO: VERSIONID:   40OGoJNL
+[17:26:15] INFO: FILEID:   null
+[17:26:15] INFO: SOURCEFILENAME:   personalspace-1.0.32.jar
+[17:26:15] INFO: Attempting to download the resource Personal Space... (77/230 resources)
+[17:26:15] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:15] INFO: NAME:   Random Things
+[17:26:15] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/RandomThings-2.2.4.jar
+[17:26:15] INFO: SIDE:   both
+[17:26:15] INFO: TYPE:   curseforge
+[17:26:15] INFO: OPTIONAL:   false
+[17:26:15] INFO: PROJECTID:   59816
+[17:26:15] INFO: VERSIONID:   null
+[17:26:15] INFO: FILEID:   2225310
+[17:26:15] INFO: SOURCEFILENAME:   null
+[17:26:15] INFO: Attempting to download the resource Random Things... (78/230 resources)
+[17:26:15] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:15] INFO: NAME:   RecipeConflict Fixer
+[17:26:15] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/NoMoreRecipeConflict-1.7.10-0.3.2.jar
+[17:26:15] INFO: SIDE:   both
+[17:26:15] INFO: TYPE:   curseforge
+[17:26:15] INFO: OPTIONAL:   false
+[17:26:15] INFO: PROJECTID:   533411
+[17:26:15] INFO: VERSIONID:   null
+[17:26:15] INFO: FILEID:   3479729
+[17:26:15] INFO: SOURCEFILENAME:   null
+[17:26:15] INFO: Attempting to download the resource RecipeConflict Fixer... (79/230 resources)
+[17:26:16] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:16] INFO: NAME:   SimplyJetpacks
+[17:26:16] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/SimplyJetpacks-MC1.7.10-1.5.3.jar
+[17:26:16] INFO: SIDE:   both
+[17:26:16] INFO: TYPE:   url
+[17:26:16] INFO: OPTIONAL:   false
+[17:26:16] INFO: URL:   https://github.com/GabrieleCesare/modulti/raw/main/SimplyJetpacks-MC1.7.10-1.5.3.jar
+[17:26:16] INFO: Attempting to download the resource SimplyJetpacks... (80/230 resources)
+[17:26:17] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:17] INFO: NAME:   Smooth Font
+[17:26:17] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/SmoothFont-1.7.10-1.15.3.jar
+[17:26:17] INFO: SIDE:   client
+[17:26:17] INFO: TYPE:   curseforge
+[17:26:17] INFO: OPTIONAL:   false
+[17:26:17] INFO: PROJECTID:   285742
+[17:26:17] INFO: VERSIONID:   null
+[17:26:17] INFO: FILEID:   2614474
+[17:26:17] INFO: SOURCEFILENAME:   null
+[17:26:17] INFO: Attempting to download the resource Smooth Font... (81/230 resources)
+[17:26:17] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:17] INFO: NAME:   SpawnChecker
+[17:26:17] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/SpawnChecker-2.1.4.128.jar
+[17:26:17] INFO: SIDE:   client
+[17:26:17] INFO: TYPE:   url
+[17:26:17] INFO: OPTIONAL:   false
+[17:26:17] INFO: URL:   
+[17:26:17] INFO: Attempting to download the resource SpawnChecker... (82/230 resources)
+[17:26:17] ERROR: Error while downloading SpawnChecker. (The URL is invalid.)
+==================================================
+
+==================================================
+[17:26:17] INFO: NAME:   StatusEffectHUD
+[17:26:17] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/[1.7.10]StatusEffectHUD-client-1.27.jar
+[17:26:17] INFO: SIDE:   client
+[17:26:17] INFO: TYPE:   curseforge
+[17:26:17] INFO: OPTIONAL:   false
+[17:26:17] INFO: PROJECTID:   225566
+[17:26:17] INFO: VERSIONID:   null
+[17:26:17] INFO: FILEID:   2218935
+[17:26:17] INFO: SOURCEFILENAME:   null
+[17:26:17] INFO: Attempting to download the resource StatusEffectHUD... (83/230 resources)
+[17:26:17] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:17] INFO: NAME:   StorageBox
+[17:26:17] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/StorageBox_Fixed-3.0.5-6.jar
+[17:26:17] INFO: SIDE:   both
+[17:26:17] INFO: TYPE:   url
+[17:26:17] INFO: OPTIONAL:   false
+[17:26:17] INFO: URL:   https://drive.google.com/uc?id=1Wm440RBR1D55FUpuQq5ENpQszIWSOumW
+[17:26:17] INFO: Attempting to download the resource StorageBox... (84/230 resources)
+[17:26:20] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:20] INFO: NAME:   TiC-Tooltips
+[17:26:20] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/TiCTooltips-1.3.1.jar
+[17:26:20] INFO: SIDE:   both
+[17:26:20] INFO: TYPE:   url
+[17:26:20] INFO: OPTIONAL:   false
+[17:26:20] INFO: URL:   https://github.com/GTNewHorizons/TiC-Tooltips/releases/download/1.3.1/TiCTooltips-1.3.1.jar
+[17:26:20] INFO: Attempting to download the resource TiC-Tooltips... (85/230 resources)
+[17:26:21] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:21] INFO: NAME:   Torcherino
+[17:26:21] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Torcherino-1.7.10-2.2s.jar
+[17:26:21] INFO: SIDE:   both
+[17:26:21] INFO: TYPE:   curseforge
+[17:26:21] INFO: OPTIONAL:   false
+[17:26:21] INFO: PROJECTID:   236794
+[17:26:21] INFO: VERSIONID:   null
+[17:26:21] INFO: FILEID:   2261384
+[17:26:21] INFO: SOURCEFILENAME:   null
+[17:26:21] INFO: Attempting to download the resource Torcherino... (86/230 resources)
+[17:26:21] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:21] INFO: NAME:   TubeStuff
+[17:26:21] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/tubestuff-59.0.4.jar
+[17:26:21] INFO: SIDE:   both
+[17:26:21] INFO: TYPE:   url
+[17:26:21] INFO: OPTIONAL:   false
+[17:26:21] INFO: URL:   https://immibis.com/mcmoddl/files/tubestuff-59.0.4.jar
+[17:26:21] INFO: Attempting to download the resource TubeStuff... (87/230 resources)
+[17:26:24] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:24] INFO: NAME:   VisualProspecting
+[17:26:24] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/visualprospecting-1.3.10.jar
+[17:26:24] INFO: SIDE:   both
+[17:26:24] INFO: TYPE:   url
+[17:26:24] INFO: OPTIONAL:   false
+[17:26:24] INFO: URL:   https://github.com/GTNewHorizons/VisualProspecting/releases/download/1.3.10/visualprospecting-1.3.10.jar
+[17:26:24] INFO: Attempting to download the resource VisualProspecting... (88/230 resources)
+[17:26:25] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:25] INFO: NAME:   Waila
+[17:26:25] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Waila-1.8.1.jar
+[17:26:25] INFO: SIDE:   both
+[17:26:25] INFO: TYPE:   url
+[17:26:25] INFO: OPTIONAL:   false
+[17:26:25] INFO: URL:   https://github.com/GTNewHorizons/waila/releases/download/1.8.1/Waila-1.8.1.jar
+[17:26:25] INFO: Attempting to download the resource Waila... (89/230 resources)
+[17:26:26] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:26] INFO: NAME:   WailaAddonBC
+[17:26:26] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/[1.7.10]WailaAddonBC-1.0.5.1.jar
+[17:26:26] INFO: SIDE:   both
+[17:26:26] INFO: TYPE:   curseforge
+[17:26:26] INFO: OPTIONAL:   false
+[17:26:26] INFO: PROJECTID:   238353
+[17:26:26] INFO: VERSIONID:   null
+[17:26:26] INFO: FILEID:   2310104
+[17:26:26] INFO: SOURCEFILENAME:   null
+[17:26:26] INFO: Attempting to download the resource WailaAddonBC... (90/230 resources)
+[17:26:27] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:27] INFO: NAME:   WailaHarvestability
+[17:26:27] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/WailaHarvestability-1.2.1-GTNH.jar
+[17:26:27] INFO: SIDE:   both
+[17:26:27] INFO: TYPE:   url
+[17:26:27] INFO: OPTIONAL:   false
+[17:26:27] INFO: URL:   https://github.com/GTNewHorizons/WailaHarvestability/releases/download/1.2.1-GTNH/WailaHarvestability-1.2.1-GTNH.jar
+[17:26:27] INFO: Attempting to download the resource WailaHarvestability... (91/230 resources)
+[17:26:28] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:28] INFO: NAME:   WAILAPlugins
+[17:26:28] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/WAILAPlugins-0.4.0.jar
+[17:26:28] INFO: SIDE:   both
+[17:26:28] INFO: TYPE:   url
+[17:26:28] INFO: OPTIONAL:   false
+[17:26:28] INFO: URL:   https://github.com/GTNewHorizons/WAILAPlugins/releases/download/0.4.0/WAILAPlugins-0.4.0.jar
+[17:26:28] INFO: Attempting to download the resource WAILAPlugins... (92/230 resources)
+[17:26:29] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:29] INFO: NAME:   AdditionalRecipe
+[17:26:29] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/AdditionalRecipe-0.01-18-f.jar
+[17:26:29] INFO: SIDE:   both
+[17:26:29] INFO: TYPE:   url
+[17:26:29] INFO: OPTIONAL:   false
+[17:26:29] INFO: URL:   https://github.com/chibivaru1225/AdditionalRecipe1.7.10/releases/download/0.01-18-f/AdditionalRecipe-0.01-18-f.jar
+[17:26:29] INFO: Attempting to download the resource AdditionalRecipe... (93/230 resources)
+[17:26:29] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:29] INFO: NAME:   Navigator
+[17:26:29] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/navigator-1.0.6.jar
+[17:26:29] INFO: SIDE:   both
+[17:26:29] INFO: TYPE:   url
+[17:26:29] INFO: OPTIONAL:   false
+[17:26:29] INFO: URL:   https://github.com/GTNewHorizons/Navigator/releases/download/1.0.6/navigator-1.0.6.jar
+[17:26:29] INFO: Attempting to download the resource Navigator... (94/230 resources)
+[17:26:31] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:31] INFO: NAME:   AE2FluidCraft-Rework
+[17:26:31] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/ae2fc-1.3.22-gtnh-pre.jar
+[17:26:31] INFO: SIDE:   both
+[17:26:31] INFO: TYPE:   url
+[17:26:31] INFO: OPTIONAL:   false
+[17:26:31] INFO: URL:   https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.3.22-gtnh-pre/ae2fc-1.3.22-gtnh-pre.jar
+[17:26:31] INFO: Attempting to download the resource AE2FluidCraft-Rework... (95/230 resources)
+[17:26:32] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:32] INFO: NAME:   ae2stuff
+[17:26:32] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/ae2stuff-0.8.2-GTNH.jar
+[17:26:32] INFO: SIDE:   both
+[17:26:32] INFO: TYPE:   url
+[17:26:32] INFO: OPTIONAL:   false
+[17:26:32] INFO: URL:   https://github.com/GTNewHorizons/ae2stuff/releases/download/0.8.2-GTNH/ae2stuff-0.8.2-GTNH.jar
+[17:26:32] INFO: Attempting to download the resource ae2stuff... (96/230 resources)
+[17:26:33] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:33] INFO: NAME:   Applied-Energistics-2-Unofficial
+[17:26:33] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/appliedenergistics2-rv3-beta-427-GTNH-pre.jar
+[17:26:33] INFO: SIDE:   both
+[17:26:33] INFO: TYPE:   url
+[17:26:33] INFO: OPTIONAL:   false
+[17:26:33] INFO: URL:   https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-427-GTNH-pre/appliedenergistics2-rv3-beta-427-GTNH-pre.jar
+[17:26:33] INFO: Attempting to download the resource Applied-Energistics-2-Unofficial... (97/230 resources)
+[17:26:35] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:35] INFO: NAME:   BetterP2P
+[17:26:35] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/betterp2p-1.2.1.jar
+[17:26:35] INFO: SIDE:   both
+[17:26:35] INFO: TYPE:   url
+[17:26:35] INFO: OPTIONAL:   false
+[17:26:35] INFO: URL:   https://github.com/GTNewHorizons/BetterP2P/releases/download/1.2.1/betterp2p-1.2.1.jar
+[17:26:35] INFO: Attempting to download the resource BetterP2P... (98/230 resources)
+[17:26:36] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:36] INFO: NAME:   EnderStorage
+[17:26:36] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/EnderStorage-1.6.0.jar
+[17:26:36] INFO: SIDE:   both
+[17:26:36] INFO: TYPE:   url
+[17:26:36] INFO: OPTIONAL:   false
+[17:26:36] INFO: URL:   https://github.com/GTNewHorizons/EnderStorage/releases/download/1.6.0/EnderStorage-1.6.0.jar
+[17:26:36] INFO: Attempting to download the resource EnderStorage... (99/230 resources)
+[17:26:37] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:37] INFO: NAME:   ironchest
+[17:26:37] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/IronChest-6.0.85.jar
+[17:26:37] INFO: SIDE:   both
+[17:26:37] INFO: TYPE:   url
+[17:26:37] INFO: OPTIONAL:   false
+[17:26:37] INFO: URL:   https://github.com/GTNewHorizons/ironchest/releases/download/6.0.85/IronChest-6.0.85.jar
+[17:26:37] INFO: Attempting to download the resource ironchest... (100/230 resources)
+[17:26:38] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:38] INFO: NAME:   PackagedAuto
+[17:26:38] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/PackagedAuto-1.7.10-W.0.2.9.jar
+[17:26:38] INFO: SIDE:   both
+[17:26:38] INFO: TYPE:   curseforge
+[17:26:38] INFO: OPTIONAL:   false
+[17:26:38] INFO: PROJECTID:   308380
+[17:26:38] INFO: VERSIONID:   null
+[17:26:38] INFO: FILEID:   4478950
+[17:26:38] INFO: SOURCEFILENAME:   null
+[17:26:38] INFO: Attempting to download the resource PackagedAuto... (101/230 resources)
+[17:26:38] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:38] INFO: NAME:   StorageDrawers
+[17:26:38] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/StorageDrawers-1.13.9-GTNH.jar
+[17:26:38] INFO: SIDE:   both
+[17:26:38] INFO: TYPE:   url
+[17:26:38] INFO: OPTIONAL:   false
+[17:26:38] INFO: URL:   https://github.com/GTNewHorizons/StorageDrawers/releases/download/1.13.9-GTNH/StorageDrawers-1.13.9-GTNH.jar
+[17:26:38] INFO: Attempting to download the resource StorageDrawers... (102/230 resources)
+[17:26:39] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:39] INFO: NAME:   StorageDrawers-Forestry
+[17:26:39] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/StorageDrawersForestry-1.13.1-GTNH.jar
+[17:26:39] INFO: SIDE:   both
+[17:26:39] INFO: TYPE:   url
+[17:26:39] INFO: OPTIONAL:   false
+[17:26:39] INFO: URL:   https://github.com/GTNewHorizons/StorageDrawers-Forestry/releases/download/1.13.1-GTNH/StorageDrawersForestry-1.13.1-GTNH.jar
+[17:26:39] INFO: Attempting to download the resource StorageDrawers-Forestry... (103/230 resources)
+[17:26:40] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:40] INFO: NAME:   WirelessCraftingTerminal
+[17:26:40] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/WirelessCraftingTerminal-1.11.6.jar
+[17:26:40] INFO: SIDE:   both
+[17:26:40] INFO: TYPE:   url
+[17:26:40] INFO: OPTIONAL:   false
+[17:26:40] INFO: URL:   https://github.com/GTNewHorizons/WirelessCraftingTerminal/releases/download/1.11.6/WirelessCraftingTerminal-1.11.6.jar
+[17:26:40] INFO: Attempting to download the resource WirelessCraftingTerminal... (104/230 resources)
+[17:26:41] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:41] INFO: NAME:   Galacticraft Legacy
+[17:26:41] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Galacticraft-1.7-3.0.12.504.jar
+[17:26:41] INFO: SIDE:   both
+[17:26:41] INFO: TYPE:   curseforge
+[17:26:41] INFO: OPTIONAL:   false
+[17:26:41] INFO: PROJECTID:   564236
+[17:26:41] INFO: VERSIONID:   null
+[17:26:41] INFO: FILEID:   4501439
+[17:26:41] INFO: SOURCEFILENAME:   null
+[17:26:41] INFO: Attempting to download the resource Galacticraft Legacy... (105/230 resources)
+[17:26:41] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:41] INFO: NAME:   Galaxy Space
+[17:26:41] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/GalaxySpace-1.7.10-1.2.15.jar
+[17:26:41] INFO: SIDE:   both
+[17:26:41] INFO: TYPE:   curseforge
+[17:26:41] INFO: OPTIONAL:   false
+[17:26:41] INFO: PROJECTID:   238770
+[17:26:41] INFO: VERSIONID:   null
+[17:26:41] INFO: FILEID:   3806537
+[17:26:41] INFO: SOURCEFILENAME:   null
+[17:26:41] INFO: Attempting to download the resource Galaxy Space... (106/230 resources)
+[17:26:41] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:41] INFO: NAME:   Pressure Pipes
+[17:26:41] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/pressure-1.3.0.fix1-mc1.7.10.jar
+[17:26:41] INFO: SIDE:   both
+[17:26:41] INFO: TYPE:   curseforge
+[17:26:41] INFO: OPTIONAL:   false
+[17:26:41] INFO: PROJECTID:   221214
+[17:26:41] INFO: VERSIONID:   null
+[17:26:41] INFO: FILEID:   2475630
+[17:26:41] INFO: SOURCEFILENAME:   null
+[17:26:41] INFO: Attempting to download the resource Pressure Pipes... (107/230 resources)
+[17:26:41] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:42] INFO: NAME:   BiblioCraft
+[17:26:42] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/BiblioCraft[v1.11.7][MC1.7.10].jar
+[17:26:42] INFO: SIDE:   both
+[17:26:42] INFO: TYPE:   curseforge
+[17:26:42] INFO: OPTIONAL:   false
+[17:26:42] INFO: PROJECTID:   228027
+[17:26:42] INFO: VERSIONID:   null
+[17:26:42] INFO: FILEID:   2423369
+[17:26:42] INFO: SOURCEFILENAME:   null
+[17:26:42] INFO: Attempting to download the resource BiblioCraft... (108/230 resources)
+[17:26:42] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:42] INFO: NAME:   BiblioCraft: BiblioWoods Forestry Edition
+[17:26:42] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/BiblioWoods[Forestry][v1.7].jar
+[17:26:42] INFO: SIDE:   both
+[17:26:42] INFO: TYPE:   curseforge
+[17:26:42] INFO: OPTIONAL:   false
+[17:26:42] INFO: PROJECTID:   228363
+[17:26:42] INFO: VERSIONID:   null
+[17:26:42] INFO: FILEID:   2229574
+[17:26:42] INFO: SOURCEFILENAME:   null
+[17:26:42] INFO: Attempting to download the resource BiblioCraft: BiblioWoods Forestry Edition... (109/230 resources)
+[17:26:42] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:42] INFO: NAME:   Carpenter's Blocks
+[17:26:42] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Carpenter's Blocks v3.3.8.2 - MC 1.7.10.jar
+[17:26:42] INFO: SIDE:   both
+[17:26:42] INFO: TYPE:   curseforge
+[17:26:42] INFO: OPTIONAL:   false
+[17:26:42] INFO: PROJECTID:   228932
+[17:26:42] INFO: VERSIONID:   null
+[17:26:42] INFO: FILEID:   2719376
+[17:26:42] INFO: SOURCEFILENAME:   null
+[17:26:42] INFO: Attempting to download the resource Carpenter's Blocks... (110/230 resources)
+[17:26:42] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:42] INFO: NAME:   Chisel
+[17:26:42] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/chisel-2.15.2-GTNH.jar
+[17:26:42] INFO: SIDE:   both
+[17:26:42] INFO: TYPE:   url
+[17:26:42] INFO: OPTIONAL:   false
+[17:26:42] INFO: URL:   https://github.com/GTNewHorizons/Chisel/releases/download/2.15.2-GTNH/chisel-2.15.2-GTNH.jar
+[17:26:42] INFO: Attempting to download the resource Chisel... (111/230 resources)
+[17:26:44] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:44] INFO: NAME:   MrCrayfish's Furniture Mod
+[17:26:44] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/MrCrayfishFurnitureModv3.4.7(1.7.10).jar
+[17:26:44] INFO: SIDE:   both
+[17:26:44] INFO: TYPE:   curseforge
+[17:26:44] INFO: OPTIONAL:   false
+[17:26:44] INFO: PROJECTID:   55438
+[17:26:44] INFO: VERSIONID:   null
+[17:26:44] INFO: FILEID:   2221679
+[17:26:44] INFO: SOURCEFILENAME:   null
+[17:26:44] INFO: Attempting to download the resource MrCrayfish's Furniture Mod... (112/230 resources)
+[17:26:45] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:45] INFO: NAME:   Ztones
+[17:26:45] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Ztones-1.7.10-2.2.1.jar
+[17:26:45] INFO: SIDE:   both
+[17:26:45] INFO: TYPE:   curseforge
+[17:26:45] INFO: OPTIONAL:   false
+[17:26:45] INFO: PROJECTID:   224369
+[17:26:45] INFO: VERSIONID:   null
+[17:26:45] INFO: FILEID:   2223720
+[17:26:45] INFO: SOURCEFILENAME:   null
+[17:26:45] INFO: Attempting to download the resource Ztones... (113/230 resources)
+[17:26:45] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:45] INFO: NAME:   TofuFactoryReloaded-MC1.7.10
+[17:26:45] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/TofuFactoryR-1.3.0-MC1.7.10.jar
+[17:26:45] INFO: SIDE:   both
+[17:26:45] INFO: TYPE:   url
+[17:26:45] INFO: OPTIONAL:   false
+[17:26:45] INFO: URL:   https://tsuteto.hacca.jp/mcmods-assets/tofufactory/builds/TofuFactoryR-1.3.0-MC1.7.10.jar
+[17:26:45] INFO: Attempting to download the resource TofuFactoryReloaded-MC1.7.10... (114/230 resources)
+[17:26:45] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:45] INFO: NAME:   EnderTech
+[17:26:45] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/EnderTech-1.7.10-0.3.2.405.jar
+[17:26:45] INFO: SIDE:   both
+[17:26:45] INFO: TYPE:   curseforge
+[17:26:45] INFO: OPTIONAL:   false
+[17:26:45] INFO: PROJECTID:   223428
+[17:26:45] INFO: VERSIONID:   null
+[17:26:45] INFO: FILEID:   2260928
+[17:26:45] INFO: SOURCEFILENAME:   null
+[17:26:45] INFO: Attempting to download the resource EnderTech... (115/230 resources)
+[17:26:45] INFO: Successfully downloaded the file on attempt number 1.
+[17:26:45] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:45] INFO: NAME:   Actually Additions
+[17:26:45] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/ActuallyAdditions-1.7.10-r21.jar
+[17:26:45] INFO: SIDE:   both
+[17:26:45] INFO: TYPE:   curseforge
+[17:26:45] INFO: OPTIONAL:   false
+[17:26:45] INFO: PROJECTID:   228404
+[17:26:45] INFO: VERSIONID:   null
+[17:26:45] INFO: FILEID:   2274681
+[17:26:45] INFO: SOURCEFILENAME:   null
+[17:26:45] INFO: Attempting to download the resource Actually Additions... (116/230 resources)
+[17:26:45] INFO: Successfully downloaded the file on attempt number 1.
+[17:26:45] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:45] INFO: NAME:   Akuto Engine
+[17:26:45] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/AkutoEngine-1.4.3.jar
+[17:26:45] INFO: SIDE:   both
+[17:26:45] INFO: TYPE:   curseforge
+[17:26:45] INFO: OPTIONAL:   false
+[17:26:45] INFO: PROJECTID:   278276
+[17:26:45] INFO: VERSIONID:   null
+[17:26:45] INFO: FILEID:   3442978
+[17:26:45] INFO: SOURCEFILENAME:   null
+[17:26:45] INFO: Attempting to download the resource Akuto Engine... (117/230 resources)
+[17:26:46] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:46] INFO: NAME:   BeeBetterAtBees-GTNH
+[17:26:46] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/beebetteratbees-0.4.2-GTNH.jar
+[17:26:46] INFO: SIDE:   both
+[17:26:46] INFO: TYPE:   url
+[17:26:46] INFO: OPTIONAL:   false
+[17:26:46] INFO: URL:   https://github.com/GTNewHorizons/BeeBetterAtBees-GTNH/releases/download/0.4.2-GTNH/beebetteratbees-0.4.2-GTNH.jar
+[17:26:46] INFO: Attempting to download the resource BeeBetterAtBees-GTNH... (118/230 resources)
+[17:26:47] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:47] INFO: NAME:   Binnie
+[17:26:47] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/binnie-mods-2.4.1.jar
+[17:26:47] INFO: SIDE:   both
+[17:26:47] INFO: TYPE:   url
+[17:26:47] INFO: OPTIONAL:   false
+[17:26:47] INFO: URL:   https://github.com/GTNewHorizons/Binnie/releases/download/2.4.1/binnie-mods-2.4.1.jar
+[17:26:47] INFO: Attempting to download the resource Binnie... (119/230 resources)
+[17:26:48] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:48] INFO: NAME:   BuildCraft
+[17:26:48] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/buildcraft-7.1.39.jar
+[17:26:48] INFO: SIDE:   both
+[17:26:48] INFO: TYPE:   url
+[17:26:48] INFO: OPTIONAL:   false
+[17:26:48] INFO: URL:   https://github.com/GTNewHorizons/BuildCraft/releases/download/7.1.39/buildcraft-7.1.39.jar
+[17:26:48] INFO: Attempting to download the resource BuildCraft... (120/230 resources)
+[17:26:50] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:50] INFO: NAME:   Calculator
+[17:26:50] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Calculator-1.7.10-1.9.11.jar
+[17:26:50] INFO: SIDE:   both
+[17:26:50] INFO: TYPE:   curseforge
+[17:26:50] INFO: OPTIONAL:   false
+[17:26:50] INFO: PROJECTID:   225104
+[17:26:50] INFO: VERSIONID:   null
+[17:26:50] INFO: FILEID:   2306256
+[17:26:50] INFO: SOURCEFILENAME:   null
+[17:26:50] INFO: Attempting to download the resource Calculator... (121/230 resources)
+[17:26:50] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:50] INFO: NAME:   Clayium
+[17:26:50] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/clayium-0.4.6.36.hotfix2.jar
+[17:26:50] INFO: SIDE:   both
+[17:26:50] INFO: TYPE:   curseforge
+[17:26:50] INFO: OPTIONAL:   false
+[17:26:50] INFO: PROJECTID:   243111
+[17:26:50] INFO: VERSIONID:   null
+[17:26:50] INFO: FILEID:   2353582
+[17:26:50] INFO: SOURCEFILENAME:   null
+[17:26:50] INFO: Attempting to download the resource Clayium... (122/230 resources)
+[17:26:50] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:50] INFO: NAME:   Crops ++
+[17:26:50] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/CropsPP-1.3.5.jar
+[17:26:50] INFO: SIDE:   both
+[17:26:50] INFO: TYPE:   curseforge
+[17:26:50] INFO: OPTIONAL:   false
+[17:26:50] INFO: PROJECTID:   291673
+[17:26:50] INFO: VERSIONID:   null
+[17:26:50] INFO: FILEID:   2712410
+[17:26:50] INFO: SOURCEFILENAME:   null
+[17:26:50] INFO: Attempting to download the resource Crops ++... (123/230 resources)
+[17:26:50] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:50] INFO: NAME:   Deep Resonance
+[17:26:50] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/deepresonance-1.1.4.jar
+[17:26:50] INFO: SIDE:   both
+[17:26:50] INFO: TYPE:   modrinth
+[17:26:50] INFO: OPTIONAL:   false
+[17:26:50] INFO: PROJECTID:   gzruRGfo
+[17:26:50] INFO: VERSIONID:   x31GwgEa
+[17:26:50] INFO: FILEID:   null
+[17:26:50] INFO: SOURCEFILENAME:   null
+[17:26:50] INFO: Attempting to download the resource Deep Resonance... (124/230 resources)
+[17:26:51] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:51] INFO: NAME:   EnderIO-Unofficial
+[17:26:51] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/EnderIO-2.8.17.jar
+[17:26:51] INFO: SIDE:   both
+[17:26:51] INFO: TYPE:   url
+[17:26:51] INFO: OPTIONAL:   false
+[17:26:51] INFO: URL:   https://github.com/GTNewHorizons/EnderIO/releases/download/2.8.17/EnderIO-2.8.17.jar
+[17:26:51] INFO: Attempting to download the resource EnderIO-Unofficial... (125/230 resources)
+[17:26:53] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:53] INFO: NAME:   Extra Utilities
+[17:26:53] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/extrautilities-1.2.12.jar
+[17:26:53] INFO: SIDE:   both
+[17:26:53] INFO: TYPE:   curseforge
+[17:26:53] INFO: OPTIONAL:   false
+[17:26:53] INFO: PROJECTID:   225561
+[17:26:53] INFO: VERSIONID:   null
+[17:26:53] INFO: FILEID:   2264383
+[17:26:53] INFO: SOURCEFILENAME:   null
+[17:26:53] INFO: Attempting to download the resource Extra Utilities... (126/230 resources)
+[17:26:53] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:53] INFO: NAME:   ForestryMC
+[17:26:53] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Forestry-4.9.9-pre.jar
+[17:26:53] INFO: SIDE:   both
+[17:26:53] INFO: TYPE:   url
+[17:26:53] INFO: OPTIONAL:   false
+[17:26:53] INFO: URL:   https://github.com/GTNewHorizons/ForestryMC/releases/download/4.9.9-pre/Forestry-4.9.9-pre.jar
+[17:26:53] INFO: Attempting to download the resource ForestryMC... (127/230 resources)
+[17:26:55] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:55] INFO: NAME:   gendustry
+[17:26:55] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/gendustry-1.8.2-GTNH.jar
+[17:26:55] INFO: SIDE:   both
+[17:26:55] INFO: TYPE:   url
+[17:26:55] INFO: OPTIONAL:   false
+[17:26:55] INFO: URL:   https://github.com/GTNewHorizons/gendustry/releases/download/1.8.2-GTNH/gendustry-1.8.2-GTNH.jar
+[17:26:55] INFO: Attempting to download the resource gendustry... (128/230 resources)
+[17:26:56] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:26:56] INFO: NAME:   Gravitation Suite
+[17:26:56] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/GraviSuite-1.7.10-2.0.3.jar
+[17:26:56] INFO: SIDE:   both
+[17:26:56] INFO: TYPE:   url
+[17:26:56] INFO: OPTIONAL:   false
+[17:26:56] INFO: URL:   https://forum.industrial-craft.net/core/attachment/4519-gravisuite-1-7-10-2-0-3-jar/
+[17:26:56] INFO: Attempting to download the resource Gravitation Suite... (129/230 resources)
+[17:27:0] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:0] INFO: NAME:   GT5u
+[17:27:0] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/gregtech-5.09.33.02.jar
+[17:27:0] INFO: SIDE:   both
+[17:27:0] INFO: TYPE:   url
+[17:27:0] INFO: OPTIONAL:   false
+[17:27:0] INFO: URL:   https://github.com/Blood-Asp/GT5-Unofficial/releases/download/5.09.33.02/gregtech-5.09.33.02.jar
+[17:27:0] INFO: Attempting to download the resource GT5u... (130/230 resources)
+[17:27:4] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:4] INFO: NAME:   Gregtech++
+[17:27:4] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/GT-PlusPlus-1.7.02.09.jar
+[17:27:4] INFO: SIDE:   both
+[17:27:4] INFO: TYPE:   curseforge
+[17:27:4] INFO: OPTIONAL:   false
+[17:27:4] INFO: PROJECTID:   252448
+[17:27:4] INFO: VERSIONID:   null
+[17:27:4] INFO: FILEID:   2608712
+[17:27:4] INFO: SOURCEFILENAME:   null
+[17:27:4] INFO: Attempting to download the resource Gregtech++... (131/230 resources)
+[17:27:4] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:4] INFO: NAME:   HighTierCrops
+[17:27:4] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/HighTierCrops-MC1.7.10-2.00.jar
+[17:27:4] INFO: SIDE:   both
+[17:27:4] INFO: TYPE:   curseforge
+[17:27:4] INFO: OPTIONAL:   false
+[17:27:4] INFO: PROJECTID:   813226
+[17:27:4] INFO: VERSIONID:   null
+[17:27:4] INFO: FILEID:   4352818
+[17:27:4] INFO: SOURCEFILENAME:   null
+[17:27:4] INFO: Attempting to download the resource HighTierCrops... (132/230 resources)
+[17:27:4] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:4] INFO: NAME:   Industrial Craft
+[17:27:4] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/industrialcraft-2-2.2.827-experimental.jar
+[17:27:4] INFO: SIDE:   both
+[17:27:4] INFO: TYPE:   curseforge
+[17:27:4] INFO: OPTIONAL:   false
+[17:27:4] INFO: PROJECTID:   242638
+[17:27:4] INFO: VERSIONID:   null
+[17:27:4] INFO: FILEID:   2353971
+[17:27:4] INFO: SOURCEFILENAME:   null
+[17:27:4] INFO: Attempting to download the resource Industrial Craft... (133/230 resources)
+[17:27:4] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:4] INFO: NAME:   Immersive Engineering
+[17:27:4] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/ImmersiveEngineering-0.7.7.jar
+[17:27:4] INFO: SIDE:   both
+[17:27:4] INFO: TYPE:   curseforge
+[17:27:4] INFO: OPTIONAL:   false
+[17:27:4] INFO: PROJECTID:   231951
+[17:27:4] INFO: VERSIONID:   null
+[17:27:4] INFO: FILEID:   2299019
+[17:27:4] INFO: SOURCEFILENAME:   null
+[17:27:4] INFO: Attempting to download the resource Immersive Engineering... (134/230 resources)
+[17:27:5] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:5] INFO: NAME:   Magneticraft
+[17:27:5] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/magneticraft-0.6.1-final.jar
+[17:27:5] INFO: SIDE:   both
+[17:27:5] INFO: TYPE:   curseforge
+[17:27:5] INFO: OPTIONAL:   false
+[17:27:5] INFO: PROJECTID:   224808
+[17:27:5] INFO: VERSIONID:   null
+[17:27:5] INFO: FILEID:   2276268
+[17:27:5] INFO: SOURCEFILENAME:   null
+[17:27:5] INFO: Attempting to download the resource Magneticraft... (135/230 resources)
+[17:27:5] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:5] INFO: NAME:   Mekanism Community Edition
+[17:27:5] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Mekanism-Community-Edition-1.7.10-9.10.36-ALL.jar
+[17:27:5] INFO: SIDE:   both
+[17:27:5] INFO: TYPE:   modrinth
+[17:27:5] INFO: OPTIONAL:   false
+[17:27:5] INFO: PROJECTID:   toGHjw6t
+[17:27:5] INFO: VERSIONID:   c7oADfCd
+[17:27:5] INFO: FILEID:   null
+[17:27:5] INFO: SOURCEFILENAME:   Mekanism-Community-Edition-1.7.10-9.10.36-ALL.jar
+[17:27:5] INFO: Attempting to download the resource Mekanism Community Edition... (136/230 resources)
+[17:27:6] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:6] INFO: NAME:   Minefactory Reloaded
+[17:27:6] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/MineFactoryReloaded-[1.7.10]2.8.2B1-201.jar
+[17:27:6] INFO: SIDE:   both
+[17:27:6] INFO: TYPE:   curseforge
+[17:27:6] INFO: OPTIONAL:   false
+[17:27:6] INFO: PROJECTID:   66672
+[17:27:6] INFO: VERSIONID:   null
+[17:27:6] INFO: FILEID:   2366149
+[17:27:6] INFO: SOURCEFILENAME:   null
+[17:27:6] INFO: Attempting to download the resource Minefactory Reloaded... (137/230 resources)
+[17:27:6] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:6] INFO: NAME:   MFRAddon
+[17:27:6] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/MFRAddon-mc1.7.x-r5.jar
+[17:27:6] INFO: SIDE:   both
+[17:27:6] INFO: TYPE:   url
+[17:27:6] INFO: OPTIONAL:   false
+[17:27:6] INFO: URL:   https://web.archive.org/web/20190715140112/https://forum.minecraftuser.jp/download/file.php?id=50200
+[17:27:6] INFO: Attempting to download the resource MFRAddon... (138/230 resources)
+[17:27:10] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:10] INFO: NAME:   NuclearCraft
+[17:27:10] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/NuclearCraft-1.9g--1.7.10.jar
+[17:27:10] INFO: SIDE:   both
+[17:27:10] INFO: TYPE:   curseforge
+[17:27:10] INFO: OPTIONAL:   false
+[17:27:10] INFO: PROJECTID:   226254
+[17:27:10] INFO: VERSIONID:   null
+[17:27:10] INFO: FILEID:   2568943
+[17:27:10] INFO: SOURCEFILENAME:   null
+[17:27:10] INFO: Attempting to download the resource NuclearCraft... (139/230 resources)
+[17:27:10] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:10] INFO: NAME:   PneumaticCraft
+[17:27:10] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/PneumaticCraft-1.7.10-1.12.7-152-universal.jar
+[17:27:10] INFO: SIDE:   both
+[17:27:10] INFO: TYPE:   curseforge
+[17:27:10] INFO: OPTIONAL:   false
+[17:27:10] INFO: PROJECTID:   224125
+[17:27:10] INFO: VERSIONID:   null
+[17:27:10] INFO: FILEID:   2513763
+[17:27:10] INFO: SOURCEFILENAME:   null
+[17:27:10] INFO: Attempting to download the resource PneumaticCraft... (140/230 resources)
+[17:27:11] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:11] INFO: NAME:   QuarryPlus
+[17:27:11] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/QuarryPlus-Mod-1.7.10.jar
+[17:27:11] INFO: SIDE:   both
+[17:27:11] INFO: TYPE:   url
+[17:27:11] INFO: OPTIONAL:   false
+[17:27:11] INFO: URL:   https://sourceforge.net/projects/yogpstopmcmods/files/Alpha/jar/QuarryPlus/Minecraft%201.7.10%20with%20BC%206.1.X%20or%20newer/QuarryPlus-1.7.10-e031534b8b4b1e833b1b46daf578389917e2a728.jar/download
+[17:27:11] INFO: Attempting to download the resource QuarryPlus... (141/230 resources)
+[17:27:11] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:11] INFO: NAME:   Railcraft
+[17:27:11] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Railcraft-9.15.11.jar
+[17:27:11] INFO: SIDE:   both
+[17:27:11] INFO: TYPE:   url
+[17:27:11] INFO: OPTIONAL:   false
+[17:27:11] INFO: URL:   https://github.com/GTNewHorizons/Railcraft/releases/download/9.15.11/Railcraft-9.15.11.jar
+[17:27:11] INFO: Attempting to download the resource Railcraft... (142/230 resources)
+[17:27:13] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:13] INFO: NAME:   Redstone Arsenal
+[17:27:13] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/RedstoneArsenal-[1.7.10]1.1.2-92.jar
+[17:27:13] INFO: SIDE:   both
+[17:27:13] INFO: TYPE:   curseforge
+[17:27:13] INFO: OPTIONAL:   false
+[17:27:13] INFO: PROJECTID:   70631
+[17:27:13] INFO: VERSIONID:   null
+[17:27:13] INFO: FILEID:   2277490
+[17:27:13] INFO: SOURCEFILENAME:   null
+[17:27:13] INFO: Attempting to download the resource Redstone Arsenal... (143/230 resources)
+[17:27:14] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:14] INFO: NAME:   RFTools
+[17:27:14] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/rftools-4.23.jar
+[17:27:14] INFO: SIDE:   both
+[17:27:14] INFO: TYPE:   curseforge
+[17:27:14] INFO: OPTIONAL:   false
+[17:27:14] INFO: PROJECTID:   224641
+[17:27:14] INFO: VERSIONID:   null
+[17:27:14] INFO: FILEID:   2287287
+[17:27:14] INFO: SOURCEFILENAME:   null
+[17:27:14] INFO: Attempting to download the resource RFTools... (144/230 resources)
+[17:27:14] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:14] INFO: NAME:   SextierySector2
+[17:27:14] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/SextiarySector2-2.4.8.f-1.7.10.jar
+[17:27:14] INFO: SIDE:   both
+[17:27:14] INFO: TYPE:   url
+[17:27:14] INFO: OPTIONAL:   false
+[17:27:14] INFO: URL:   https://web.archive.org/web/20190715200711/https://forum.minecraftuser.jp/download/file.php?id=65308
+[17:27:14] INFO: Attempting to download the resource SextierySector2... (145/230 resources)
+[17:27:15] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:15] INFO: NAME:   Solar Flux
+[17:27:15] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/SolarFlux-1.7.10-0.8b.jar
+[17:27:15] INFO: SIDE:   both
+[17:27:15] INFO: TYPE:   curseforge
+[17:27:15] INFO: OPTIONAL:   false
+[17:27:15] INFO: PROJECTID:   223548
+[17:27:15] INFO: VERSIONID:   null
+[17:27:15] INFO: FILEID:   2250666
+[17:27:15] INFO: SOURCEFILENAME:   null
+[17:27:15] INFO: Attempting to download the resource Solar Flux... (146/230 resources)
+[17:27:16] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:16] INFO: NAME:   TecTech
+[17:27:16] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/TecTech-1.7.10-5.0.5.jar
+[17:27:16] INFO: SIDE:   both
+[17:27:16] INFO: TYPE:   url
+[17:27:16] INFO: OPTIONAL:   false
+[17:27:16] INFO: URL:   https://github.com/Technus/TecTech/releases/download/5.0.5/TecTech-1.7.10-5.0.5.jar
+[17:27:16] INFO: Attempting to download the resource TecTech... (147/230 resources)
+[17:27:18] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:18] INFO: NAME:   Thermal Dynamics
+[17:27:18] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/ThermalDynamics-[1.7.10]1.2.1-172.jar
+[17:27:18] INFO: SIDE:   both
+[17:27:18] INFO: TYPE:   curseforge
+[17:27:18] INFO: OPTIONAL:   false
+[17:27:18] INFO: PROJECTID:   227443
+[17:27:18] INFO: VERSIONID:   null
+[17:27:18] INFO: FILEID:   2388756
+[17:27:18] INFO: SOURCEFILENAME:   null
+[17:27:18] INFO: Attempting to download the resource Thermal Dynamics... (148/230 resources)
+[17:27:18] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:18] INFO: NAME:   Thermal Expansion
+[17:27:18] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/ThermalExpansion-[1.7.10]4.1.5-248.jar
+[17:27:18] INFO: SIDE:   both
+[17:27:18] INFO: TYPE:   curseforge
+[17:27:18] INFO: OPTIONAL:   false
+[17:27:18] INFO: PROJECTID:   69163
+[17:27:18] INFO: VERSIONID:   null
+[17:27:18] INFO: FILEID:   2388758
+[17:27:18] INFO: SOURCEFILENAME:   null
+[17:27:18] INFO: Attempting to download the resource Thermal Expansion... (149/230 resources)
+[17:27:19] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:19] INFO: NAME:   Thermal Foundation
+[17:27:19] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/ThermalFoundation-[1.7.10]1.2.6-118.jar
+[17:27:19] INFO: SIDE:   both
+[17:27:19] INFO: TYPE:   curseforge
+[17:27:19] INFO: OPTIONAL:   false
+[17:27:19] INFO: PROJECTID:   222880
+[17:27:19] INFO: VERSIONID:   null
+[17:27:19] INFO: FILEID:   2388752
+[17:27:19] INFO: SOURCEFILENAME:   null
+[17:27:19] INFO: Attempting to download the resource Thermal Foundation... (150/230 resources)
+[17:27:19] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:19] INFO: NAME:   Redstone Armory
+[17:27:19] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/RedstoneArmory-1.7.10-1.2.0-41.jar
+[17:27:19] INFO: SIDE:   both
+[17:27:19] INFO: TYPE:   curseforge
+[17:27:19] INFO: OPTIONAL:   false
+[17:27:19] INFO: PROJECTID:   229339
+[17:27:19] INFO: VERSIONID:   null
+[17:27:19] INFO: FILEID:   2263890
+[17:27:19] INFO: SOURCEFILENAME:   null
+[17:27:19] INFO: Attempting to download the resource Redstone Armory... (151/230 resources)
+[17:27:20] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:20] INFO: NAME:   RFDrills
+[17:27:20] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/RFDrills-1.7.10-1.7.3.jar
+[17:27:20] INFO: SIDE:   both
+[17:27:20] INFO: TYPE:   modrinth
+[17:27:20] INFO: OPTIONAL:   false
+[17:27:20] INFO: PROJECTID:   saBU82Nh
+[17:27:20] INFO: VERSIONID:   ap92MLy1
+[17:27:20] INFO: FILEID:   null
+[17:27:20] INFO: SOURCEFILENAME:   null
+[17:27:20] INFO: Attempting to download the resource RFDrills... (152/230 resources)
+[17:27:20] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:20] INFO: NAME:   Mariculture
+[17:27:20] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Mariculture-Deluxe-1.7.10-1.3.0-6.jar
+[17:27:20] INFO: SIDE:   both
+[17:27:20] INFO: TYPE:   curseforge
+[17:27:20] INFO: OPTIONAL:   false
+[17:27:20] INFO: PROJECTID:   68023
+[17:27:20] INFO: VERSIONID:   null
+[17:27:20] INFO: FILEID:   2323944
+[17:27:20] INFO: SOURCEFILENAME:   null
+[17:27:20] INFO: Attempting to download the resource Mariculture... (153/230 resources)
+[17:27:20] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:20] INFO: NAME:   Better Dungeons
+[17:27:20] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/chocolateQuest-1.7.10-1.1d.jar
+[17:27:20] INFO: SIDE:   both
+[17:27:20] INFO: TYPE:   curseforge
+[17:27:20] INFO: OPTIONAL:   false
+[17:27:20] INFO: PROJECTID:   60265
+[17:27:20] INFO: VERSIONID:   null
+[17:27:20] INFO: FILEID:   2254978
+[17:27:20] INFO: SOURCEFILENAME:   null
+[17:27:20] INFO: Attempting to download the resource Better Dungeons... (154/230 resources)
+[17:27:21] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:21] INFO: NAME:   Hardcore Ender Expansion
+[17:27:21] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/HardcoreEnderExpansion MC-1.7.10 v1.8.6.jar
+[17:27:21] INFO: SIDE:   both
+[17:27:21] INFO: TYPE:   curseforge
+[17:27:21] INFO: OPTIONAL:   false
+[17:27:21] INFO: PROJECTID:   228015
+[17:27:21] INFO: VERSIONID:   null
+[17:27:21] INFO: FILEID:   2316923
+[17:27:21] INFO: SOURCEFILENAME:   null
+[17:27:21] INFO: Attempting to download the resource Hardcore Ender Expansion... (155/230 resources)
+[17:27:22] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:22] INFO: NAME:   ExtraTiC
+[17:27:22] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/ExtraTiC-1.7.10-1.4.6.jar
+[17:27:22] INFO: SIDE:   both
+[17:27:22] INFO: TYPE:   curseforge
+[17:27:22] INFO: OPTIONAL:   false
+[17:27:22] INFO: PROJECTID:   72728
+[17:27:22] INFO: VERSIONID:   null
+[17:27:22] INFO: FILEID:   2299292
+[17:27:22] INFO: SOURCEFILENAME:   null
+[17:27:22] INFO: Attempting to download the resource ExtraTiC... (156/230 resources)
+[17:27:22] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:22] INFO: NAME:   TinkersConstruct
+[17:27:22] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/TConstruct-1.12.6-GTNH.jar
+[17:27:22] INFO: SIDE:   both
+[17:27:22] INFO: TYPE:   url
+[17:27:22] INFO: OPTIONAL:   false
+[17:27:22] INFO: URL:   https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.12.6-GTNH/TConstruct-1.12.6-GTNH.jar
+[17:27:22] INFO: Attempting to download the resource TinkersConstruct... (157/230 resources)
+[17:27:25] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:25] INFO: NAME:   ShionOnlyWins
+[17:27:25] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/ShionOnlyWins-0.01.jar
+[17:27:25] INFO: SIDE:   both
+[17:27:25] INFO: TYPE:   url
+[17:27:25] INFO: OPTIONAL:   false
+[17:27:25] INFO: URL:   https://github.com/chibivaru1225/ShionOnlyWins/releases/download/0.01/ShionOnlyWins-0.01.jar
+[17:27:25] INFO: Attempting to download the resource ShionOnlyWins... (158/230 resources)
+[17:27:25] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:25] INFO: NAME:   Tinker I/O
+[17:27:25] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/tinker_io-1.7.10-release 1.5.0.jar
+[17:27:25] INFO: SIDE:   both
+[17:27:25] INFO: TYPE:   curseforge
+[17:27:25] INFO: OPTIONAL:   false
+[17:27:25] INFO: PROJECTID:   229503
+[17:27:25] INFO: VERSIONID:   null
+[17:27:25] INFO: FILEID:   2283060
+[17:27:25] INFO: SOURCEFILENAME:   null
+[17:27:25] INFO: Attempting to download the resource Tinker I/O... (159/230 resources)
+[17:27:25] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:25] INFO: NAME:   Tinkers' Gregworks
+[17:27:25] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/TGregworks-1.7.10-1.0.18.jar
+[17:27:25] INFO: SIDE:   both
+[17:27:25] INFO: TYPE:   url
+[17:27:25] INFO: OPTIONAL:   false
+[17:27:25] INFO: URL:   https://files.vexatos.com/TGregworks/TGregworks-1.7.10-1.0.18.jar
+[17:27:25] INFO: Attempting to download the resource Tinkers' Gregworks... (160/230 resources)
+[17:27:26] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:26] INFO: NAME:   Aura Cascade
+[17:27:26] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/AuraCascade-557.jar
+[17:27:26] INFO: SIDE:   both
+[17:27:26] INFO: TYPE:   curseforge
+[17:27:26] INFO: OPTIONAL:   false
+[17:27:26] INFO: PROJECTID:   227099
+[17:27:26] INFO: VERSIONID:   null
+[17:27:26] INFO: FILEID:   2261766
+[17:27:26] INFO: SOURCEFILENAME:   null
+[17:27:26] INFO: Attempting to download the resource Aura Cascade... (161/230 resources)
+[17:27:27] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:27] INFO: NAME:   Blood Arsenal
+[17:27:27] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/BloodArsenal-1.7.10-1.2-5.jar
+[17:27:27] INFO: SIDE:   both
+[17:27:27] INFO: TYPE:   curseforge
+[17:27:27] INFO: OPTIONAL:   false
+[17:27:27] INFO: PROJECTID:   228823
+[17:27:27] INFO: VERSIONID:   null
+[17:27:27] INFO: FILEID:   2288783
+[17:27:27] INFO: SOURCEFILENAME:   null
+[17:27:27] INFO: Attempting to download the resource Blood Arsenal... (162/230 resources)
+[17:27:27] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:28] INFO: NAME:   Blood Magic
+[17:27:28] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/BloodMagic-1.7.10-1.3.3-17.jar
+[17:27:28] INFO: SIDE:   both
+[17:27:28] INFO: TYPE:   modrinth
+[17:27:28] INFO: OPTIONAL:   false
+[17:27:28] INFO: PROJECTID:   PbNc6qBY
+[17:27:28] INFO: VERSIONID:   zNdLXvCW
+[17:27:28] INFO: FILEID:   null
+[17:27:28] INFO: SOURCEFILENAME:   null
+[17:27:28] INFO: Attempting to download the resource Blood Magic... (163/230 resources)
+[17:27:28] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:28] INFO: NAME:   Botania
+[17:27:28] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Botania-1.11.3-GTNH.jar
+[17:27:28] INFO: SIDE:   both
+[17:27:28] INFO: TYPE:   url
+[17:27:28] INFO: OPTIONAL:   false
+[17:27:28] INFO: URL:   https://github.com/GTNewHorizons/Botania/releases/download/1.11.3-GTNH/Botania-1.11.3-GTNH.jar
+[17:27:28] INFO: Attempting to download the resource Botania... (164/230 resources)
+[17:27:32] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:32] INFO: NAME:   EvilCraft
+[17:27:32] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/EvilCraft-1.7.10-0.9.13.jar
+[17:27:32] INFO: SIDE:   both
+[17:27:32] INFO: TYPE:   curseforge
+[17:27:32] INFO: OPTIONAL:   false
+[17:27:32] INFO: PROJECTID:   74610
+[17:27:32] INFO: VERSIONID:   null
+[17:27:32] INFO: FILEID:   2409469
+[17:27:32] INFO: SOURCEFILENAME:   null
+[17:27:32] INFO: Attempting to download the resource EvilCraft... (165/230 resources)
+[17:27:32] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:32] INFO: NAME:   Thaumcraft
+[17:27:32] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Thaumcraft-1.7.10-4.2.3.5.jar
+[17:27:32] INFO: SIDE:   both
+[17:27:32] INFO: TYPE:   curseforge
+[17:27:32] INFO: OPTIONAL:   false
+[17:27:32] INFO: PROJECTID:   223628
+[17:27:32] INFO: VERSIONID:   null
+[17:27:32] INFO: FILEID:   2227552
+[17:27:32] INFO: SOURCEFILENAME:   null
+[17:27:32] INFO: Attempting to download the resource Thaumcraft... (166/230 resources)
+[17:27:33] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:33] INFO: NAME:   Witchery
+[17:27:33] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/witchery-1.7.10-0.24.1.jar
+[17:27:33] INFO: SIDE:   both
+[17:27:33] INFO: TYPE:   curseforge
+[17:27:33] INFO: OPTIONAL:   false
+[17:27:33] INFO: PROJECTID:   69673
+[17:27:33] INFO: VERSIONID:   null
+[17:27:33] INFO: FILEID:   2234410
+[17:27:33] INFO: SOURCEFILENAME:   null
+[17:27:33] INFO: Attempting to download the resource Witchery... (167/230 resources)
+[17:27:33] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:33] INFO: NAME:   ArsMagica2
+[17:27:33] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/AM2.5-LTS-1.6.9-LE.jar
+[17:27:33] INFO: SIDE:   both
+[17:27:33] INFO: TYPE:   url
+[17:27:33] INFO: OPTIONAL:   false
+[17:27:33] INFO: URL:   https://github.com/GTNewHorizons/LogisticsPipes/releases/tag/1.2.16-GTNH
+[17:27:33] INFO: Attempting to download the resource ArsMagica2... (168/230 resources)
+[17:27:34] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:34] INFO: NAME:   Advanced Botany
+[17:27:34] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Advanced Botany 1.3.1.7.jar
+[17:27:34] INFO: SIDE:   both
+[17:27:34] INFO: TYPE:   curseforge
+[17:27:34] INFO: OPTIONAL:   false
+[17:27:34] INFO: PROJECTID:   575841
+[17:27:34] INFO: VERSIONID:   null
+[17:27:34] INFO: FILEID:   3862595
+[17:27:34] INFO: SOURCEFILENAME:   null
+[17:27:34] INFO: Attempting to download the resource Advanced Botany... (169/230 resources)
+[17:27:35] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:35] INFO: NAME:   Alfheim
+[17:27:35] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Alfheim-54.jar
+[17:27:35] INFO: SIDE:   both
+[17:27:35] INFO: TYPE:   curseforge
+[17:27:35] INFO: OPTIONAL:   false
+[17:27:35] INFO: PROJECTID:   284811
+[17:27:35] INFO: VERSIONID:   null
+[17:27:35] INFO: FILEID:   5189478
+[17:27:35] INFO: SOURCEFILENAME:   null
+[17:27:35] INFO: Attempting to download the resource Alfheim... (170/230 resources)
+[17:27:35] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:35] INFO: NAME:   BotaniaVisualizer
+[17:27:35] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/BotaniaVisualizer-1.7.2-1.0a.jar
+[17:27:35] INFO: SIDE:   both
+[17:27:35] INFO: TYPE:   curseforge
+[17:27:35] INFO: OPTIONAL:   false
+[17:27:35] INFO: PROJECTID:   260616
+[17:27:35] INFO: VERSIONID:   null
+[17:27:35] INFO: FILEID:   2381644
+[17:27:35] INFO: SOURCEFILENAME:   null
+[17:27:35] INFO: Attempting to download the resource BotaniaVisualizer... (171/230 resources)
+[17:27:36] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:36] INFO: NAME:   Botanical Addons
+[17:27:36] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/BotanicalAddons-r0.1.20-1.jar
+[17:27:36] INFO: SIDE:   both
+[17:27:36] INFO: TYPE:   curseforge
+[17:27:36] INFO: OPTIONAL:   false
+[17:27:36] INFO: PROJECTID:   237152
+[17:27:36] INFO: VERSIONID:   null
+[17:27:36] INFO: FILEID:   2281661
+[17:27:36] INFO: SOURCEFILENAME:   null
+[17:27:36] INFO: Attempting to download the resource Botanical Addons... (172/230 resources)
+[17:27:36] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:36] INFO: NAME:   Arcane Engineering
+[17:27:36] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/arcane_engineering-0.2.7.jar
+[17:27:36] INFO: SIDE:   both
+[17:27:36] INFO: TYPE:   curseforge
+[17:27:36] INFO: OPTIONAL:   false
+[17:27:36] INFO: PROJECTID:   237593
+[17:27:36] INFO: VERSIONID:   null
+[17:27:36] INFO: FILEID:   2299527
+[17:27:36] INFO: SOURCEFILENAME:   null
+[17:27:36] INFO: Attempting to download the resource Arcane Engineering... (173/230 resources)
+[17:27:37] INFO: Successfully downloaded the file on attempt number 1.
+[17:27:37] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:37] INFO: NAME:   Automagy
+[17:27:37] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Automagy-1.7.10-0.28.2.jar
+[17:27:37] INFO: SIDE:   both
+[17:27:37] INFO: TYPE:   curseforge
+[17:27:37] INFO: OPTIONAL:   false
+[17:27:37] INFO: PROJECTID:   222153
+[17:27:37] INFO: VERSIONID:   null
+[17:27:37] INFO: FILEID:   2285272
+[17:27:37] INFO: SOURCEFILENAME:   null
+[17:27:37] INFO: Attempting to download the resource Automagy... (174/230 resources)
+[17:27:38] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:38] INFO: NAME:   Electro-Magic Tools
+[17:27:38] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/ElectroMagicTools-1.2.6.2[1.7.10].jar
+[17:27:38] INFO: SIDE:   both
+[17:27:38] INFO: TYPE:   curseforge
+[17:27:38] INFO: OPTIONAL:   false
+[17:27:38] INFO: PROJECTID:   236669
+[17:27:38] INFO: VERSIONID:   null
+[17:27:38] INFO: FILEID:   2336582
+[17:27:38] INFO: SOURCEFILENAME:   null
+[17:27:38] INFO: Attempting to download the resource Electro-Magic Tools... (175/230 resources)
+[17:27:38] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:38] INFO: NAME:   ExtraScepterStaff
+[17:27:38] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/ExtraScepterStaff-mc1.7.10-for422-r1.jar
+[17:27:38] INFO: SIDE:   both
+[17:27:38] INFO: TYPE:   url
+[17:27:38] INFO: OPTIONAL:   false
+[17:27:38] INFO: URL:   https://ux.getuploader.com/banseiyu/download/63
+[17:27:38] INFO: Attempting to download the resource ExtraScepterStaff... (176/230 resources)
+[17:27:38] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:38] INFO: NAME:   Forbidden Magic
+[17:27:38] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Forbidden Magic-1.7.10-0.575.jar
+[17:27:38] INFO: SIDE:   both
+[17:27:38] INFO: TYPE:   curseforge
+[17:27:38] INFO: OPTIONAL:   false
+[17:27:38] INFO: PROJECTID:   224237
+[17:27:38] INFO: VERSIONID:   null
+[17:27:38] INFO: FILEID:   2303822
+[17:27:38] INFO: SOURCEFILENAME:   null
+[17:27:38] INFO: Attempting to download the resource Forbidden Magic... (177/230 resources)
+[17:27:39] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:39] INFO: NAME:   Forgotten Relics Unofficial
+[17:27:39] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/ForgottenRelics-1.7.10-1.7.4.jar
+[17:27:39] INFO: SIDE:   both
+[17:27:39] INFO: TYPE:   modrinth
+[17:27:39] INFO: OPTIONAL:   false
+[17:27:39] INFO: PROJECTID:   ruYpd5sW
+[17:27:39] INFO: VERSIONID:   ZEzrCjEe
+[17:27:39] INFO: FILEID:   null
+[17:27:39] INFO: SOURCEFILENAME:   ForgottenRelics-1.7.10-1.7.4.jar
+[17:27:39] INFO: Attempting to download the resource Forgotten Relics Unofficial... (178/230 resources)
+[17:27:39] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:39] INFO: NAME:   WitchingGadgets
+[17:27:39] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/WitchingGadgets-1.7.10-1.1.10.jar
+[17:27:39] INFO: SIDE:   both
+[17:27:39] INFO: TYPE:   curseforge
+[17:27:39] INFO: OPTIONAL:   false
+[17:27:39] INFO: PROJECTID:   228268
+[17:27:39] INFO: VERSIONID:   null
+[17:27:39] INFO: FILEID:   2262119
+[17:27:39] INFO: SOURCEFILENAME:   null
+[17:27:39] INFO: Attempting to download the resource WitchingGadgets... (179/230 resources)
+[17:27:40] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:40] INFO: NAME:   Gadomancy
+[17:27:40] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/gadomancy-1.3.4-pre.jar
+[17:27:40] INFO: SIDE:   both
+[17:27:40] INFO: TYPE:   url
+[17:27:40] INFO: OPTIONAL:   false
+[17:27:40] INFO: URL:   https://github.com/GTNewHorizons/Gadomancy/releases/download/1.3.4-pre/gadomancy-1.3.4-pre.jar
+[17:27:40] INFO: Attempting to download the resource Gadomancy... (180/230 resources)
+[17:27:42] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:42] INFO: NAME:   Nodal Mechanics
+[17:27:42] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/NodalMechanics-1.7-1.0-7.jar
+[17:27:42] INFO: SIDE:   both
+[17:27:42] INFO: TYPE:   curseforge
+[17:27:42] INFO: OPTIONAL:   false
+[17:27:42] INFO: PROJECTID:   223704
+[17:27:42] INFO: VERSIONID:   null
+[17:27:42] INFO: FILEID:   2213742
+[17:27:42] INFO: SOURCEFILENAME:   null
+[17:27:42] INFO: Attempting to download the resource Nodal Mechanics... (181/230 resources)
+[17:27:42] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:42] INFO: NAME:   Tainted Magic
+[17:27:42] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Tainted-Magic-7.6.11-GTNH.jar
+[17:27:42] INFO: SIDE:   both
+[17:27:42] INFO: TYPE:   url
+[17:27:42] INFO: OPTIONAL:   false
+[17:27:42] INFO: URL:   https://github.com/GTNewHorizons/Tainted-Magic/releases/download/7.6.11-GTNH/Tainted-Magic-7.6.11-GTNH.jar
+[17:27:42] INFO: Attempting to download the resource Tainted Magic... (182/230 resources)
+[17:27:44] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:44] INFO: NAME:   TCBotaniaExoflame
+[17:27:44] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/TCBotaniaExoflame-1.7.10-1.4.jar
+[17:27:44] INFO: SIDE:   both
+[17:27:44] INFO: TYPE:   curseforge
+[17:27:44] INFO: OPTIONAL:   false
+[17:27:44] INFO: PROJECTID:   238061
+[17:27:44] INFO: VERSIONID:   null
+[17:27:44] INFO: FILEID:   2273402
+[17:27:44] INFO: SOURCEFILENAME:   null
+[17:27:44] INFO: Attempting to download the resource TCBotaniaExoflame... (183/230 resources)
+[17:27:44] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:44] INFO: NAME:   ThaumicInventoryScanning
+[17:27:44] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/tcinventoryscan-1.2.0-GTNH.jar
+[17:27:44] INFO: SIDE:   both
+[17:27:44] INFO: TYPE:   url
+[17:27:44] INFO: OPTIONAL:   false
+[17:27:44] INFO: URL:   https://github.com/GTNewHorizons/ThaumicInventoryScanning/releases/download/1.2.0-GTNH/tcinventoryscan-1.2.0-GTNH.jar
+[17:27:44] INFO: Attempting to download the resource ThaumicInventoryScanning... (184/230 resources)
+[17:27:45] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:45] INFO: NAME:   thaumcraft-research-tweaks
+[17:27:45] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/ThaumcraftResearchTweaks-1.2.0.jar
+[17:27:45] INFO: SIDE:   both
+[17:27:45] INFO: TYPE:   url
+[17:27:45] INFO: OPTIONAL:   false
+[17:27:45] INFO: URL:   https://github.com/GTNewHorizons/thaumcraft-research-tweaks/releases/download/1.2.0/ThaumcraftResearchTweaks-1.2.0.jar
+[17:27:45] INFO: Attempting to download the resource thaumcraft-research-tweaks... (185/230 resources)
+[17:27:46] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:46] INFO: NAME:   Thaumcraft 4 Tweaks
+[17:27:46] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Thaumcraft4Tweaks-1.5.20.jar
+[17:27:46] INFO: SIDE:   both
+[17:27:46] INFO: TYPE:   modrinth
+[17:27:46] INFO: OPTIONAL:   false
+[17:27:46] INFO: PROJECTID:   J0HWRWq5
+[17:27:46] INFO: VERSIONID:   wskq5cR3
+[17:27:46] INFO: FILEID:   null
+[17:27:46] INFO: SOURCEFILENAME:   Thaumcraft4Tweaks-1.5.20.jar
+[17:27:46] INFO: Attempting to download the resource Thaumcraft 4 Tweaks... (186/230 resources)
+[17:27:47] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:47] INFO: NAME:   Thaumcraft NEI Plugin
+[17:27:47] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/thaumcraftneiplugin-1.7.10-1.7a.jar
+[17:27:47] INFO: SIDE:   client
+[17:27:47] INFO: TYPE:   curseforge
+[17:27:47] INFO: OPTIONAL:   false
+[17:27:47] INFO: PROJECTID:   225095
+[17:27:47] INFO: VERSIONID:   null
+[17:27:47] INFO: FILEID:   2241913
+[17:27:47] INFO: SOURCEFILENAME:   null
+[17:27:47] INFO: Attempting to download the resource Thaumcraft NEI Plugin... (187/230 resources)
+[17:27:47] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:47] INFO: NAME:   TCNodeTracker
+[17:27:47] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/tcnodetracker-1.3.1.jar
+[17:27:47] INFO: SIDE:   both
+[17:27:47] INFO: TYPE:   url
+[17:27:47] INFO: OPTIONAL:   false
+[17:27:47] INFO: URL:   https://github.com/GTNewHorizons/TCNodeTracker/releases/download/1.3.1/tcnodetracker-1.3.1.jar
+[17:27:47] INFO: Attempting to download the resource TCNodeTracker... (188/230 resources)
+[17:27:48] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:48] INFO: NAME:   ThaumicBases
+[17:27:48] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Thaumic-Based-1.7.5.jar
+[17:27:48] INFO: SIDE:   both
+[17:27:48] INFO: TYPE:   url
+[17:27:48] INFO: OPTIONAL:   false
+[17:27:48] INFO: URL:   https://github.com/GTNewHorizons/ThaumicBases/releases/download/1.7.5/Thaumic-Based-1.7.5.jar
+[17:27:48] INFO: Attempting to download the resource ThaumicBases... (189/230 resources)
+[17:27:49] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:49] INFO: NAME:   ThaumicBoots
+[17:27:49] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/thaumicboots-1.3.7.jar
+[17:27:49] INFO: SIDE:   both
+[17:27:49] INFO: TYPE:   url
+[17:27:49] INFO: OPTIONAL:   false
+[17:27:49] INFO: URL:   https://github.com/GTNewHorizons/ThaumicBoots/releases/download/1.3.7/thaumicboots-1.3.7.jar
+[17:27:49] INFO: Attempting to download the resource ThaumicBoots... (190/230 resources)
+[17:27:51] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:51] INFO: NAME:   Thaumic_Exploration
+[17:27:51] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Thaumic-Exploration-1.3.3-GTNH.jar
+[17:27:51] INFO: SIDE:   both
+[17:27:51] INFO: TYPE:   url
+[17:27:51] INFO: OPTIONAL:   false
+[17:27:51] INFO: URL:   https://github.com/GTNewHorizons/Thaumic_Exploration/releases/download/1.3.3-GTNH/Thaumic-Exploration-1.3.3-GTNH.jar
+[17:27:51] INFO: Attempting to download the resource Thaumic_Exploration... (191/230 resources)
+[17:27:52] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:52] INFO: NAME:   ThaumicHorizons
+[17:27:52] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/ThaumicHorizons-1.6.2-pre.jar
+[17:27:52] INFO: SIDE:   both
+[17:27:52] INFO: TYPE:   url
+[17:27:52] INFO: OPTIONAL:   false
+[17:27:52] INFO: URL:   https://github.com/GTNewHorizons/ThaumicHorizons/releases/download/1.6.2-pre/ThaumicHorizons-1.6.2-pre.jar
+[17:27:52] INFO: Attempting to download the resource ThaumicHorizons... (192/230 resources)
+[17:27:54] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:54] INFO: NAME:   Thaumic Insurgence
+[17:27:54] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/thaumicinsurgence-0.2.6.jar
+[17:27:54] INFO: SIDE:   both
+[17:27:54] INFO: TYPE:   curseforge
+[17:27:54] INFO: OPTIONAL:   false
+[17:27:54] INFO: PROJECTID:   662225
+[17:27:54] INFO: VERSIONID:   null
+[17:27:54] INFO: FILEID:   4657373
+[17:27:54] INFO: SOURCEFILENAME:   null
+[17:27:54] INFO: Attempting to download the resource Thaumic Insurgence... (193/230 resources)
+[17:27:54] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:54] INFO: NAME:   ThaumicTinkerer
+[17:27:54] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/ThaumicTinkerer-2.10.1.jar
+[17:27:54] INFO: SIDE:   both
+[17:27:54] INFO: TYPE:   url
+[17:27:54] INFO: OPTIONAL:   false
+[17:27:54] INFO: URL:   https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.10.1/ThaumicTinkerer-2.10.1.jar
+[17:27:54] INFO: Attempting to download the resource ThaumicTinkerer... (194/230 resources)
+[17:27:55] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:55] INFO: NAME:   Thaumaturgical Knowledge
+[17:27:55] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Thaumaturgical Knowledge-0.1.5.2 - 1.7.10.jar
+[17:27:55] INFO: SIDE:   both
+[17:27:55] INFO: TYPE:   curseforge
+[17:27:55] INFO: OPTIONAL:   false
+[17:27:55] INFO: PROJECTID:   233226
+[17:27:55] INFO: VERSIONID:   null
+[17:27:55] INFO: FILEID:   2286652
+[17:27:55] INFO: SOURCEFILENAME:   null
+[17:27:55] INFO: Attempting to download the resource Thaumaturgical Knowledge... (195/230 resources)
+[17:27:55] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:55] INFO: NAME:   Traveller's Gear
+[17:27:55] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/TravellersGear-1.7.10-1.16.6.jar
+[17:27:55] INFO: SIDE:   both
+[17:27:55] INFO: TYPE:   curseforge
+[17:27:55] INFO: OPTIONAL:   false
+[17:27:55] INFO: PROJECTID:   224440
+[17:27:55] INFO: VERSIONID:   null
+[17:27:55] INFO: FILEID:   2262112
+[17:27:55] INFO: SOURCEFILENAME:   null
+[17:27:55] INFO: Attempting to download the resource Traveller's Gear... (196/230 resources)
+[17:27:56] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:56] INFO: NAME:   Witching Gadgets
+[17:27:56] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/WitchingGadgets-1.7.10-1.1.10.jar
+[17:27:56] INFO: SIDE:   both
+[17:27:56] INFO: TYPE:   curseforge
+[17:27:56] INFO: OPTIONAL:   false
+[17:27:56] INFO: PROJECTID:   228268
+[17:27:56] INFO: VERSIONID:   null
+[17:27:56] INFO: FILEID:   2262119
+[17:27:56] INFO: SOURCEFILENAME:   null
+[17:27:56] INFO: Attempting to download the resource Witching Gadgets... (197/230 resources)
+[17:27:56] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:56] INFO: NAME:   ThaumicEnergistics
+[17:27:56] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/thaumicenergistics-1.6.22-GTNH.jar
+[17:27:56] INFO: SIDE:   both
+[17:27:56] INFO: TYPE:   url
+[17:27:56] INFO: OPTIONAL:   false
+[17:27:56] INFO: URL:   https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.6.22-GTNH/thaumicenergistics-1.6.22-GTNH.jar
+[17:27:56] INFO: Attempting to download the resource ThaumicEnergistics... (198/230 resources)
+[17:27:57] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:57] INFO: NAME:   Grimoire of Gaia
+[17:27:57] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/GrimoireOfGaia3-1.7.10-1.2.7.jar
+[17:27:57] INFO: SIDE:   both
+[17:27:57] INFO: TYPE:   curseforge
+[17:27:57] INFO: OPTIONAL:   false
+[17:27:57] INFO: PROJECTID:   228948
+[17:27:57] INFO: VERSIONID:   null
+[17:27:57] INFO: FILEID:   2260836
+[17:27:57] INFO: SOURCEFILENAME:   null
+[17:27:57] INFO: Attempting to download the resource Grimoire of Gaia... (199/230 resources)
+[17:27:57] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:57] INFO: NAME:   TofuCraft
+[17:27:57] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/TofuCraft-2.1.7-mc1.7.10.jar
+[17:27:57] INFO: SIDE:   both
+[17:27:57] INFO: TYPE:   url
+[17:27:57] INFO: OPTIONAL:   false
+[17:27:57] INFO: URL:   https://downloadx.getuploader.com/g/66c04310-ef60-4dbf-af9e-4dc1a010e467/fuckyoumotherfucker/60/TofuCraft-2.1.7-mc1.7.10.jar
+[17:27:57] INFO: Attempting to download the resource TofuCraft... (200/230 resources)
+[17:27:59] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:59] INFO: NAME:   CookingForBlockheads
+[17:27:59] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/CookingForBlockheads-1.3.4-GTNH.jar
+[17:27:59] INFO: SIDE:   both
+[17:27:59] INFO: TYPE:   url
+[17:27:59] INFO: OPTIONAL:   false
+[17:27:59] INFO: URL:   https://github.com/GTNewHorizons/CookingForBlockheads/releases/download/1.3.4-GTNH/CookingForBlockheads-1.3.4-GTNH.jar
+[17:27:59] INFO: Attempting to download the resource CookingForBlockheads... (201/230 resources)
+[17:27:59] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:59] INFO: NAME:   Pam's Get All the Seeds!
+[17:27:59] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Pam's Get all the Seeds 1.7.10a.jar
+[17:27:59] INFO: SIDE:   both
+[17:27:59] INFO: TYPE:   curseforge
+[17:27:59] INFO: OPTIONAL:   false
+[17:27:59] INFO: PROJECTID:   221914
+[17:27:59] INFO: VERSIONID:   null
+[17:27:59] INFO: FILEID:   2245851
+[17:27:59] INFO: SOURCEFILENAME:   null
+[17:27:59] INFO: Attempting to download the resource Pam's Get All the Seeds!... (202/230 resources)
+[17:27:59] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:59] INFO: NAME:   Pam's HarvestCraft
+[17:27:59] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Pam's HarvestCraft 1.7.10Lb.jar
+[17:27:59] INFO: SIDE:   both
+[17:27:59] INFO: TYPE:   curseforge
+[17:27:59] INFO: OPTIONAL:   false
+[17:27:59] INFO: PROJECTID:   221857
+[17:27:59] INFO: VERSIONID:   null
+[17:27:59] INFO: FILEID:   2270206
+[17:27:59] INFO: SOURCEFILENAME:   null
+[17:27:59] INFO: Attempting to download the resource Pam's HarvestCraft... (203/230 resources)
+[17:27:59] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:27:59] INFO: NAME:   MapleTree
+[17:27:59] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/[1.7.10]MapleTree Forge v1.1.33g.jar
+[17:27:59] INFO: SIDE:   both
+[17:27:59] INFO: TYPE:   url
+[17:27:59] INFO: OPTIONAL:   false
+[17:27:59] INFO: URL:   https://web.archive.org/web/20170629033153/http://forum.minecraftuser.jp/download/file.php?id=71626
+[17:27:59] INFO: Attempting to download the resource MapleTree... (204/230 resources)
+[17:28:3] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:28:3] INFO: NAME:   LogisticsPipes
+[17:28:3] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/logisticspipes-1.2.16-GTNH.jar
+[17:28:3] INFO: SIDE:   both
+[17:28:3] INFO: TYPE:   url
+[17:28:3] INFO: OPTIONAL:   false
+[17:28:3] INFO: URL:   https://github.com/GTNewHorizons/LogisticsPipes/releases/download/1.2.16-GTNH/logisticspipes-1.2.16-GTNH.jar
+[17:28:3] INFO: Attempting to download the resource LogisticsPipes... (205/230 resources)
+[17:28:4] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:28:4] INFO: NAME:   Refined Relocation
+[17:28:4] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/RefinedRelocation-mc1.7.10-1.1.34.jar
+[17:28:4] INFO: SIDE:   both
+[17:28:4] INFO: TYPE:   curseforge
+[17:28:4] INFO: OPTIONAL:   false
+[17:28:4] INFO: PROJECTID:   75811
+[17:28:4] INFO: VERSIONID:   null
+[17:28:4] INFO: FILEID:   2393121
+[17:28:4] INFO: SOURCEFILENAME:   null
+[17:28:4] INFO: Attempting to download the resource Refined Relocation... (206/230 resources)
+[17:28:4] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:28:4] INFO: NAME:   Avaritia
+[17:28:4] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Avaritia-1.13.jar
+[17:28:4] INFO: SIDE:   both
+[17:28:4] INFO: TYPE:   curseforge
+[17:28:4] INFO: OPTIONAL:   false
+[17:28:4] INFO: PROJECTID:   233785
+[17:28:4] INFO: VERSIONID:   null
+[17:28:4] INFO: FILEID:   2519595
+[17:28:4] INFO: SOURCEFILENAME:   null
+[17:28:4] INFO: Attempting to download the resource Avaritia... (207/230 resources)
+[17:28:4] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:28:4] INFO: NAME:   Draconic-Evolution
+[17:28:4] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Draconic-Evolution-1.3.6-GTNH.jar
+[17:28:4] INFO: SIDE:   both
+[17:28:4] INFO: TYPE:   url
+[17:28:4] INFO: OPTIONAL:   false
+[17:28:4] INFO: URL:   https://github.com/GTNewHorizons/Draconic-Evolution/releases/download/1.3.6-GTNH/Draconic-Evolution-1.3.6-GTNH.jar
+[17:28:4] INFO: Attempting to download the resource Draconic-Evolution... (208/230 resources)
+[17:28:7] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:28:7] INFO: NAME:   SlashBlade
+[17:28:7] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/SlashBlade-mc1.7.10-r87.jar
+[17:28:7] INFO: SIDE:   both
+[17:28:7] INFO: TYPE:   curseforge
+[17:28:7] INFO: OPTIONAL:   false
+[17:28:7] INFO: PROJECTID:   241596
+[17:28:7] INFO: VERSIONID:   null
+[17:28:7] INFO: FILEID:   2334408
+[17:28:7] INFO: SOURCEFILENAME:   null
+[17:28:7] INFO: Attempting to download the resource SlashBlade... (209/230 resources)
+[17:28:7] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:28:7] INFO: NAME:   AnvilEnchant
+[17:28:7] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Slashblade-AnvilEnchant-mc1.7.10-r1.jar
+[17:28:7] INFO: SIDE:   both
+[17:28:7] INFO: TYPE:   url
+[17:28:7] INFO: OPTIONAL:   false
+[17:28:7] INFO: URL:   https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=62767
+[17:28:7] INFO: Attempting to download the resource AnvilEnchant... (210/230 resources)
+[17:28:13] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:28:13] INFO: NAME:   Blade of Wanderer
+[17:28:13] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/SlashBladeWanderer-mc1.7.2-r1.jar
+[17:28:13] INFO: SIDE:   both
+[17:28:13] INFO: TYPE:   url
+[17:28:13] INFO: OPTIONAL:   false
+[17:28:13] INFO: URL:   https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=51138
+[17:28:13] INFO: Attempting to download the resource Blade of Wanderer... (211/230 resources)
+[17:28:17] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:28:17] INFO: NAME:   BladeMaster
+[17:28:17] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/BladeMaster-mc1.7.2-r1.2.jar
+[17:28:17] INFO: SIDE:   both
+[17:28:17] INFO: TYPE:   url
+[17:28:17] INFO: OPTIONAL:   false
+[17:28:17] INFO: URL:   https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=51137
+[17:28:17] INFO: Attempting to download the resource BladeMaster... (212/230 resources)
+[17:28:23] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:28:23] INFO: NAME:   MURASAMABlade
+[17:28:23] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/MurasamaBlade-mc1.7.2-r3.2.jar
+[17:28:23] INFO: SIDE:   both
+[17:28:23] INFO: TYPE:   url
+[17:28:23] INFO: OPTIONAL:   false
+[17:28:23] INFO: URL:   https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=49616
+[17:28:23] INFO: Attempting to download the resource MURASAMABlade... (213/230 resources)
+[17:28:26] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:28:26] INFO: NAME:   TerraBlade
+[17:28:26] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/SlashBlade-Terra-mc1.7.10-r1.jar
+[17:28:26] INFO: SIDE:   both
+[17:28:26] INFO: TYPE:   url
+[17:28:26] INFO: OPTIONAL:   false
+[17:28:26] INFO: URL:   https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=56484
+[17:28:26] INFO: Attempting to download the resource TerraBlade... (214/230 resources)
+[17:28:28] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:28:28] INFO: NAME:   Zephyr
+[17:28:28] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/SlashBlade_Zephyr-mc1.7.2-r1.2.2.jar
+[17:28:28] INFO: SIDE:   both
+[17:28:28] INFO: TYPE:   url
+[17:28:28] INFO: OPTIONAL:   false
+[17:28:28] INFO: URL:   https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=48180
+[17:28:28] INFO: Attempting to download the resource Zephyr... (215/230 resources)
+[17:28:30] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:28:30] INFO: NAME:   fluorescentbar
+[17:28:30] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/fluorescentbar-mc1.7.2-r3.jar
+[17:28:30] INFO: SIDE:   both
+[17:28:30] INFO: TYPE:   url
+[17:28:30] INFO: OPTIONAL:   false
+[17:28:30] INFO: URL:   https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=49506
+[17:28:30] INFO: Attempting to download the resource fluorescentbar... (216/230 resources)
+[17:28:40] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:28:40] INFO: NAME:   DarkRaven
+[17:28:40] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/DarkRaven-mc1.7.2-r2.jar
+[17:28:40] INFO: SIDE:   both
+[17:28:40] INFO: TYPE:   url
+[17:28:40] INFO: OPTIONAL:   false
+[17:28:40] INFO: URL:   https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=57229
+[17:28:40] INFO: Attempting to download the resource DarkRaven... (217/230 resources)
+[17:28:43] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:28:43] INFO: NAME:   Nihil
+[17:28:43] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Nihil-mc1.7.x-r8.jar
+[17:28:43] INFO: SIDE:   both
+[17:28:43] INFO: TYPE:   url
+[17:28:43] INFO: OPTIONAL:   false
+[17:28:43] INFO: URL:   https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=61937
+[17:28:43] INFO: Attempting to download the resource Nihil... (218/230 resources)
+[17:28:45] INFO: An error occurred while downloading the file, trying again...
+[17:28:46] INFO: An error occurred while downloading the file, trying again...
+[17:28:47] ERROR: Error while downloading Nihil. (There was an issue writing to file.)
+==================================================
+
+==================================================
+[17:28:47] INFO: NAME:   SlashBlade-Kirisaya
+[17:28:47] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/SlashBlade-Kirisaya-r1.jar
+[17:28:47] INFO: SIDE:   both
+[17:28:47] INFO: TYPE:   url
+[17:28:47] INFO: OPTIONAL:   false
+[17:28:47] INFO: URL:   https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=57176
+[17:28:47] INFO: Attempting to download the resource SlashBlade-Kirisaya... (219/230 resources)
+[17:28:47] INFO: An error occurred while downloading the file, trying again...
+[17:28:49] INFO: An error occurred while downloading the file, trying again...
+[17:28:50] ERROR: Error while downloading SlashBlade-Kirisaya. (There was an issue writing to file.)
+==================================================
+
+==================================================
+[17:28:50] INFO: NAME:   SlashBlade-Kamuy
+[17:28:50] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/SlashBlade-Kamuy-mc1.7.10-r6.jar
+[17:28:50] INFO: SIDE:   both
+[17:28:50] INFO: TYPE:   url
+[17:28:50] INFO: OPTIONAL:   false
+[17:28:50] INFO: URL:   https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=55969
+[17:28:50] INFO: Attempting to download the resource SlashBlade-Kamuy... (220/230 resources)
+[17:28:50] INFO: An error occurred while downloading the file, trying again...
+[17:28:51] INFO: An error occurred while downloading the file, trying again...
+[17:28:52] ERROR: Error while downloading SlashBlade-Kamuy. (There was an issue writing to file.)
+==================================================
+
+==================================================
+[17:28:52] INFO: NAME:   SlashBlade-Laemmle
+[17:28:52] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Slashblade-Laemmle-mc1.7.10-r1.jar
+[17:28:52] INFO: SIDE:   both
+[17:28:52] INFO: TYPE:   url
+[17:28:52] INFO: OPTIONAL:   false
+[17:28:52] INFO: URL:   https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=60590
+[17:28:52] INFO: Attempting to download the resource SlashBlade-Laemmle... (221/230 resources)
+[17:28:52] INFO: An error occurred while downloading the file, trying again...
+[17:28:53] INFO: An error occurred while downloading the file, trying again...
+[17:28:54] ERROR: Error while downloading SlashBlade-Laemmle. (There was an issue writing to file.)
+==================================================
+
+==================================================
+[17:28:54] INFO: NAME:   SlashBlade-yukari
+[17:28:54] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Slashblade-yukari-mc1.7.10-r2.jar
+[17:28:54] INFO: SIDE:   both
+[17:28:54] INFO: TYPE:   url
+[17:28:54] INFO: OPTIONAL:   false
+[17:28:54] INFO: URL:   https://web.archive.org/web/20190715123647/http://goo.gl/hchjUd
+[17:28:54] INFO: Attempting to download the resource SlashBlade-yukari... (222/230 resources)
+[17:28:55] INFO: An error occurred while downloading the file, trying again...
+[17:28:56] INFO: An error occurred while downloading the file, trying again...
+[17:28:57] ERROR: Error while downloading SlashBlade-yukari. (There was an issue writing to file.)
+==================================================
+
+==================================================
+[17:28:57] INFO: NAME:   SlashBladeFrostWolf
+[17:28:57] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/SlashBladeFrostWolf-mc1.7.2-r1.1.jar
+[17:28:57] INFO: SIDE:   both
+[17:28:57] INFO: TYPE:   url
+[17:28:57] INFO: OPTIONAL:   false
+[17:28:57] INFO: URL:   https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=51483
+[17:28:57] INFO: Attempting to download the resource SlashBladeFrostWolf... (223/230 resources)
+[17:28:57] INFO: An error occurred while downloading the file, trying again...
+[17:28:58] INFO: An error occurred while downloading the file, trying again...
+[17:28:59] ERROR: Error while downloading SlashBladeFrostWolf. (There was an issue writing to file.)
+==================================================
+
+==================================================
+[17:28:59] INFO: NAME:   toyako
+[17:28:59] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/toyako-mc1.7.2-r1.jar
+[17:28:59] INFO: SIDE:   both
+[17:28:59] INFO: TYPE:   url
+[17:28:59] INFO: OPTIONAL:   false
+[17:28:59] INFO: URL:   https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=48477
+[17:28:59] INFO: Attempting to download the resource toyako... (224/230 resources)
+[17:28:59] INFO: An error occurred while downloading the file, trying again...
+[17:29:1] INFO: An error occurred while downloading the file, trying again...
+[17:29:2] ERROR: Error while downloading toyako. (There was an issue writing to file.)
+==================================================
+
+==================================================
+[17:29:2] INFO: NAME:   SlashArts
+[17:29:2] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/SlashBlade-SlashArts-mc1.7.10-r2.jar
+[17:29:2] INFO: SIDE:   both
+[17:29:2] INFO: TYPE:   url
+[17:29:2] INFO: OPTIONAL:   false
+[17:29:2] INFO: URL:   https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=52353
+[17:29:2] INFO: Attempting to download the resource SlashArts... (225/230 resources)
+[17:29:2] INFO: An error occurred while downloading the file, trying again...
+[17:29:3] INFO: An error occurred while downloading the file, trying again...
+[17:29:4] ERROR: Error while downloading SlashArts. (There was an issue writing to file.)
+==================================================
+
+==================================================
+[17:29:4] INFO: NAME:   AOBD singularities
+[17:29:4] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/AOBDsingularities-1.0.4.jar
+[17:29:4] INFO: SIDE:   both
+[17:29:4] INFO: TYPE:   curseforge
+[17:29:4] INFO: OPTIONAL:   false
+[17:29:4] INFO: PROJECTID:   252549
+[17:29:4] INFO: VERSIONID:   null
+[17:29:4] INFO: FILEID:   2348928
+[17:29:4] INFO: SOURCEFILENAME:   null
+[17:29:4] INFO: Attempting to download the resource AOBD singularities... (226/230 resources)
+[17:29:5] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:29:5] INFO: NAME:   Avaritiaddons
+[17:29:5] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Avaritiaddons-1.4b.jar
+[17:29:5] INFO: SIDE:   both
+[17:29:5] INFO: TYPE:   curseforge
+[17:29:5] INFO: OPTIONAL:   false
+[17:29:5] INFO: PROJECTID:   248873
+[17:29:5] INFO: VERSIONID:   null
+[17:29:5] INFO: FILEID:   2502196
+[17:29:5] INFO: SOURCEFILENAME:   null
+[17:29:5] INFO: Attempting to download the resource Avaritiaddons... (227/230 resources)
+[17:29:5] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:29:5] INFO: NAME:   Eternal Singularity
+[17:29:5] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/EternalSingularity-1.7.10-1.0.4b.jar
+[17:29:5] INFO: SIDE:   both
+[17:29:5] INFO: TYPE:   curseforge
+[17:29:5] INFO: OPTIONAL:   false
+[17:29:5] INFO: PROJECTID:   253077
+[17:29:5] INFO: VERSIONID:   null
+[17:29:5] INFO: FILEID:   2577977
+[17:29:5] INFO: SOURCEFILENAME:   null
+[17:29:5] INFO: Attempting to download the resource Eternal Singularity... (228/230 resources)
+[17:29:5] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:29:5] INFO: NAME:   Thermal Singularities
+[17:29:5] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/ThermalSingularities-1.7.10-1.2.jar
+[17:29:5] INFO: SIDE:   both
+[17:29:5] INFO: TYPE:   curseforge
+[17:29:5] INFO: OPTIONAL:   false
+[17:29:5] INFO: PROJECTID:   246473
+[17:29:5] INFO: VERSIONID:   null
+[17:29:5] INFO: FILEID:   2309489
+[17:29:5] INFO: SOURCEFILENAME:   null
+[17:29:5] INFO: Attempting to download the resource Thermal Singularities... (229/230 resources)
+[17:29:5] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+==================================================
+[17:29:5] INFO: NAME:   Universal Singularities
+[17:29:5] INFO: DESTINATION:   config/mcinstanceloader/temp/overrides/mods/Universal Singularities [Version 8]-1.7.10.jar
+[17:29:5] INFO: SIDE:   both
+[17:29:5] INFO: TYPE:   curseforge
+[17:29:5] INFO: OPTIONAL:   false
+[17:29:5] INFO: PROJECTID:   252200
+[17:29:5] INFO: VERSIONID:   null
+[17:29:5] INFO: FILEID:   2350157
+[17:29:5] INFO: SOURCEFILENAME:   null
+[17:29:5] INFO: Attempting to download the resource Universal Singularities... (230/230 resources)
+[17:29:5] INFO: Successfully downloaded the file on attempt number 1.
+==================================================
+
+[17:29:6] INFO: Displaying GUI.
+
