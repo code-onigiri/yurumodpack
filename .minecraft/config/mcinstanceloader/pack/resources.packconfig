@@ -188,6 +188,13 @@ side =
 # lib mod
 # ライブラリmod
 
+[ASJCore]
+type = curseforge
+projectId = 445557
+fileId = 5155186
+destination  = mods/1.7.10-ASJCore-1.3.0.1.jar
+side = both
+
 [AkutoLib]
 type = curseforge
 projectId = 304964
