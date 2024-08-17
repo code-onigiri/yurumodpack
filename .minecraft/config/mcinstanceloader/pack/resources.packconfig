@@ -631,12 +631,6 @@ fileId = 2614474
 destination = mods/SmoothFont-1.7.10-1.15.3.jar
 side = client
 
-#[SpawnChecker]
-#type = url
-#destination = mods/SpawnChecker-2.1.4.128.jar
-#url = 
-#side = client
-
 [StatusEffectHUD]
 type = curseforge
 projectId = 225566
