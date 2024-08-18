@@ -2,23 +2,10 @@
 読まなきゃ殴り込みに行きます(嘘です)
 
 ## 手動導入必須mod
-- NanoLaser ([NanoLaser](https://web.archive.org/web/20190522122003/https://dl.dropboxusercontent.com/s/odiwor0armqlpm7/NanoLaser-1.7.10-8.2.3-1.2.2.jar))
 - 竹mod ([竹](https://www.dropbox.com/s/sc5vf0imhlrmoba/Bamboo-2.6.8.5.jar?dl=1))
-- HyperDimensionalBag ([HyperDimensionalBag](https://web.archive.org/web/20190522122003/https://dl.dropboxusercontent.com/s/juc61fzxvjnrdnt/HyperDimensionalBag-1.2c-forMC1.7.jar))
-- 似蛭 ([Nihil](https://web.archive.org/web/20190715140008/https://forum.minecraftuser.jp/download/file.php?id=61937))
-- 鞘無し ([SlashBlade-Kirisaya](https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=57176))
-- 神威 ([SlashBlade-Kamuy](https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=55969))
-- 木刀 ([toyako](https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=48477))
-- 錬金術師の太刀 ([Slashblade-Laemmle](https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=60590))
-- SlashArts ([SlashArts](https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=52353))
-- SpawnChecker ([SpawnChecker](https://www.dropbox.com/scl/fo/ldhq4k4ctsxt9d4d436o0/AE6nAWWTFJMXIHsd2hnADkM/SpawnChecker/Minecraft_1.7.x/1.7.10?preview=SpawnChecker-2.1.4.128.jar&rlkey=emhq3an4gnpa8e52gtvmmmdx3&subfolder_nav_tracking=1&st=0ktwphxr&dl=0))
-- AdditionalEnchantments ([AdditionalEnchantments](https://web.archive.org/web/20190715132818/https://dl.dropboxusercontent.com/s/6k0hhj4jg7ck43s/AdditionalEnchantments-1.7.10-1.2.11.jar))
 - DigBedrock ([DigBedrock](https://web.archive.org/web/20190715185020/https://dl.dropboxusercontent.com/s/ycrw8wetebaazt0/DigBedrock-1.7.10-1.5.3.jar))
 - MapleTree ([MapleTree](https://web.archive.org/web/20171113044952/http://forum.minecraftuser.jp/download/file.php?id=71626))
-- SextiarySector2 ([SextiarySector2](https://web.archive.org/web/20190715200711/https://forum.minecraftuser.jp/download/file.php?id=65308))
-- Faucet ([Faucet](https://web.archive.org/web/20190715191354/https://forum.minecraftuser.jp/download/file.php?id=47086))
-- MFRAddon ([MFRAddon](https://web.archive.org/web/20190715140112/https://forum.minecraftuser.jp/download/file.php?id=50200))
-
+- InfinityChest ([InfinityChest](https://web.archive.org/web/20190715132729/https://dl.dropboxusercontent.com/s/p353v45f7y7ewjw/InfinityChest-1.7.10-1.2.8.jar))
 ## lwjgl3ifyについて
 この環境ではlwjgl3ifyが必須です。
 導入はlwjgl3ifyのgithubが下記の文章をお読みください。([github](https://github.com/GTNewHorizons/lwjgl3ify))

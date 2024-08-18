@@ -156,13 +156,6 @@ versionId = i2baYHfY
 sourceFileName = Et_Futurum_Requiem-2.6.0.jar
 side = both
 
-[FloatingItems]
-type = curseforge
-projectId = 549437
-fileId = 3536677
-destination = mods/FloatingItems-1.7.10-0.1.0.jar
-side = both
-
 [Modern Splash]
 type = modrinth
 projectId = WQC4Wtzw
@@ -170,13 +163,6 @@ destination = mods/modernsplash-1.7.10-2c17c9a.jar
 versionId = loV1tjaN
 sourceFileName = modernsplash-1.7.10-2c17c9a.jar
 side = client
-
-[NetheritePlus+]
-type = curseforge
-projectId = 376911
-fileId = 2983061
-destination = mods/NetheritePlus_1.7.10_Beta0.9.jar
-side = both
 
 [SkinPort]
 type = url
@@ -187,13 +173,6 @@ side =
 # TODO: ライブラリ
 # lib mod
 # ライブラリmod
-
-[ASJCore]
-type = curseforge
-projectId = 445557
-fileId = 5155186
-destination  = mods/1.7.10-ASJCore-1.3.0.1.jar
-side = both
 
 [AkutoLib]
 type = curseforge
@@ -310,20 +289,6 @@ versionId = AWAlA3XU
 sourceFileName = gtnhlib-0.4.2.jar
 side = both
 
-[MCEconomy2]
-type = curseforge
-projectId = 242484
-fileId = 2294405
-destination = mods/MCEconomy2-2.5.4.a-1.7.0.jar
-side = both
-
-[bspkrsCore]
-type = curseforge
-projectId = 59218
-fileId = 2227503
-destination = mods/[1.7.10]bspkrsCore-universal-6.16.jar
-side = both
-
 [Sonar Core]
 type = curseforge
 projectId = 239418
@@ -359,14 +324,6 @@ type = url
 destination = mods/WR-CBE-1.6.0.jar
 url = https://github.com/GTNewHorizons/WirelessRedstone-CBE/releases/download/1.6.0/WR-CBE-1.6.0.jar
 side = both
-
-# TODO: MCEconomyアドオン
-
-#[ShowcaseAddon2]
-#type = url
-#destination = mods/ShowcaseAddon2-1.7.10_beta5.jar
-#url = https://dl.dropboxusercontent.com/scl/fo/ntfqva9g3r69oooiypi08/AD8LbPIh3AvkqBa11MAyrrM&e=1&preview=ShowcaseAddon2-1.7.10_beta5.jar&rlkey=eise3yz0rdogj93gez3yylrrg
-#side = both
 
 # TODO: マップ系
 
@@ -421,12 +378,6 @@ versionId = zJ1582wR
 sourceFileName = AppleCore-3.2.12.jar
 side = both
 
-[AppleMilkTea2]
-type = url
-destination = mods/AppleMilkTea2-1.7.10_2.9n.jar
-url = https://github.com/erialsan/AppleMilkTea2--/releases/download/2.10/AppleMilkTea2-1.7.10_2.9n.jar
-side = both
-
 [Advanced Backups]
 type = modrinth
 projectId = Jrmoreqs
@@ -474,19 +425,6 @@ fileId = 2272581
 destination = mods/CubicVillager-0.28.jar
 side = both
 
-#[Faucet]
-#type = url
-#destination = mods/[1.7.x]Faucet Forge v1.0.2a.zip
-#url = https://web.archive.org/web/20190715191354/https://forum.minecraftuser.jp/download/file.php?id=47086
-#side = both
-
-[FogNerf]
-type = curseforge
-projectId = 221849
-fileId = 2216790
-destination = mods/fognerf-1.7.10-0.4.jar
-side = client
-
 [GTNEIOrePlugin]
 type = url
 destination = mods/GTNIOrePlugin-PistonEdition-1.7.10-1.1.1.jar
@@ -511,12 +449,6 @@ type = url
 destination = mods/InGameInfoXML-2.8.9-pre.jar
 url = https://github.com/GTNewHorizons/InGame-Info-XML/releases/download/2.8.9-pre/InGameInfoXML-2.8.9-pre.jar
 side = both
-
-[IntelliInput]
-type = url
-destination = mods/IntelliInput-2.6-for1.7.10.jar
-url = http://mcc.mcsv.jp/Files/IntelliInput/IntelliInput-2.6-for1.7.10.jar
-side = client
 
 [inventory tweaks]
 type = url
@@ -544,12 +476,6 @@ fileId = 2265493
 destination = mods/MmmMmmMmmMmm-1.7.10-1.9.jar
 side = both
 
-[NameWakander]
-type = url
-destination = mods/NameWakander-1.15.1-1.3.9.jar
-url = https://github.com/aksource/NameWakander/releases/download/1.15.1-1.3.9/NameWakander-1.15.1-1.3.9.jar
-side = client
-
 [Nature's Compass]
 type = modrinth
 projectId = fPetb5Kh
@@ -575,20 +501,6 @@ destination = mods/NEIIntegration-1.4.0.jar
 url = https://github.com/GTNewHorizons/NEI-Integration/releases/download/1.4.0/NEIIntegration-1.4.0.jar
 side = client
 
-[No Bat]
-type = curseforge
-projectId = 245121
-fileId = 2300166
-destination = mods/No-Bat-1.0.jar
-side = both
-
-[No Mob Spawning on Trees]
-type = curseforge
-projectId = 226779
-fileId = 2362270
-destination = mods/NoMobSpawningOnTrees-1.2.0-mc1.7.10.jar
-side = both
-
 [NotEnoughEnergistics]
 type = url
 destination = mods/NotEnoughEnergistics-1.6.2-pre.jar
@@ -608,14 +520,6 @@ destination = mods/OpenBlocks-1.10.0-GTNH.jar
 url = https://github.com/GTNewHorizons/OpenBlocks/releases/download/1.10.0-GTNH/OpenBlocks-1.10.0-GTNH.jar
 side = both
 
-[Personal Space]
-type = modrinth
-projectId = ZnGlaJ2R
-destination = mods/personalspace-1.0.32.jar
-versionId = 40OGoJNL
-sourceFileName = personalspace-1.0.32.jar
-side = both
-
 [Random Things]
 type = curseforge
 projectId = 59816
@@ -630,24 +534,11 @@ fileId = 3479729
 destination = mods/NoMoreRecipeConflict-1.7.10-0.3.2.jar
 side = both
 
-[SimplyJetpacks]
-type = url
-destination = mods/SimplyJetpacks-MC1.7.10-1.5.3.jar
-url = https://github.com/GabrieleCesare/modulti/raw/main/SimplyJetpacks-MC1.7.10-1.5.3.jar
-side = both
-
 [Smooth Font]
 type = curseforge
 projectId = 285742
 fileId = 2614474
 destination = mods/SmoothFont-1.7.10-1.15.3.jar
-side = client
-
-[StatusEffectHUD]
-type = curseforge
-projectId = 225566
-fileId = 2218935
-destination = mods/[1.7.10]StatusEffectHUD-client-1.27.jar
 side = client
 
 [StorageBox]
@@ -667,12 +558,6 @@ type = curseforge
 projectId = 236794
 fileId = 2261384
 destination = mods/Torcherino-1.7.10-2.2s.jar
-side = both
-
-[TubeStuff]
-type = url
-destination = mods/tubestuff-59.0.4.jar
-url =  https://immibis.com/mcmoddl/files/tubestuff-59.0.4.jar
 side = both
 
 [VisualProspecting]
@@ -706,23 +591,18 @@ destination = mods/WAILAPlugins-0.4.0.jar
 url = https://github.com/GTNewHorizons/WAILAPlugins/releases/download/0.4.0/WAILAPlugins-0.4.0.jar
 side = both
 
-#[AdditionalEnchantments]
-#type = url
-#destination = mods/AdditionalEnchantments-1.7.10-1.2.11.jar
-#url = https://web.archive.org/web/20190522122003/https://dl.dropboxusercontent.com/s/6k0hhj4jg7ck43s/AdditionalEnchantments-1.7.10-1.2.11.jar
-#side = both
+[CMIP]
+type = curseforge
+projectId = 237207
+fileId = 2263965
+destination = mods/CMIP-1.7.10-1.0Beta.23.jar
+side = both
 
 [AdditionalRecipe]
 type = url
 destination = mods/AdditionalRecipe-0.01-18-f.jar
 url = https://github.com/chibivaru1225/AdditionalRecipe1.7.10/releases/download/0.01-18-f/AdditionalRecipe-0.01-18-f.jar
 side = both
-
-#[DigBedrock]
-#type = url
-#destination = mods/DigBedrock-1.7.10-1.5.3.jar
-#url = https://web.archive.org/web/20190715185020/https://dl.dropboxusercontent.com/s/ycrw8wetebaazt0/DigBedrock-1.7.10-1.5.3.jar
-#side = both
 
 [Navigator]
 type = url
@@ -763,12 +643,6 @@ destination = mods/EnderStorage-1.6.0.jar
 url = https://github.com/GTNewHorizons/EnderStorage/releases/download/1.6.0/EnderStorage-1.6.0.jar
 side = both
 
-#[HyperDimensionalBag]
-#type = url
-#destination = mods/HyperDimensionalBag-1.2c-forMC1.7.jar
-#url = https://web.archive.org/web/20190522122003/https://dl.dropboxusercontent.com/s/juc61fzxvjnrdnt/HyperDimensionalBag-1.2c-forMC1.7.jar
-#side = both
-
 [ironchest]
 type = url
 destination = mods/IronChest-6.0.85.jar
@@ -798,23 +672,6 @@ side = both
 type = url
 destination = mods/WirelessCraftingTerminal-1.11.6.jar
 url = https://github.com/GTNewHorizons/WirelessCraftingTerminal/releases/download/1.11.6/WirelessCraftingTerminal-1.11.6.jar
-side = both
-
-# TODO: 宇宙系
-# 宇宙系mod
-
-[Galacticraft Legacy]
-type = curseforge
-projectId = 564236
-fileId = 4501439
-destination = mods/Galacticraft-1.7-3.0.12.504.jar
-side = both
-
-[Galaxy Space]
-type = curseforge
-projectId = 238770
-fileId = 3806537
-destination = mods/GalaxySpace-1.7.10-1.2.15.jar
 side = both
 
 # TODO: 液体系
@@ -857,13 +714,6 @@ destination = mods/chisel-2.15.2-GTNH.jar
 url = https://github.com/GTNewHorizons/Chisel/releases/download/2.15.2-GTNH/chisel-2.15.2-GTNH.jar
 side = both
 
-[MrCrayfish's Furniture Mod]
-type = curseforge
-projectId = 55438
-fileId = 2221679
-destination = mods/MrCrayfishFurnitureModv3.4.7(1.7.10).jar
-side = both
-
 [Ztones]
 type = curseforge
 projectId = 224369
@@ -894,6 +744,13 @@ type = curseforge
 projectId = 228404
 fileId = 2274681
 destination = mods/ActuallyAdditions-1.7.10-r21.jar
+side = both
+
+[Additional Pipes for Buildcraft]
+type = curseforge
+projectId = 302569
+fileId = 2614309
+destination = mods/additionalpipes-4.7.7.jar
 side = both
 
 [Akuto Engine]
@@ -993,32 +850,11 @@ fileId = 2608712
 destination = mods/GT-PlusPlus-1.7.02.09.jar
 side = both
 
-[HighTierCrops]
-type = curseforge
-projectId = 813226
-fileId = 4352818
-destination = mods/HighTierCrops-MC1.7.10-2.00.jar
-side = both
-
 [Industrial Craft]
 type = curseforge
 projectId = 242638
 fileId = 2353971
 destination = mods/industrialcraft-2-2.2.827-experimental.jar
-side = both
-
-[Immersive Engineering]
-type = curseforge
-projectId = 231951
-fileId = 2299019
-destination = mods/ImmersiveEngineering-0.7.7.jar
-side = both
-
-[Magneticraft]
-type = curseforge
-projectId = 224808
-fileId = 2276268
-destination = mods/magneticraft-0.6.1-final.jar
 side = both
 
 [Mekanism Community Edition]
@@ -1036,19 +872,6 @@ fileId = 2366149
 destination = mods/MineFactoryReloaded-[1.7.10]2.8.2B1-201.jar
 side = both
 
-#[MFRAddon]
-#type = url 
-#destination = mods/MFRAddon-mc1.7.x-r5.jar
-#url = https://web.archive.org/web/20190715140112/https://forum.minecraftuser.jp/download/file.php?id=50200
-#side = both
-
-[NuclearCraft]
-type = curseforge
-projectId = 226254
-fileId = 2568943
-destination = mods/NuclearCraft-1.9g--1.7.10.jar
-side = both
-
 [PneumaticCraft]
 type = curseforge
 projectId = 224125
@@ -1060,12 +883,6 @@ side = both
 type = url
 destination = mods/QuarryPlus-Mod-1.7.10.jar
 url = https://sourceforge.net/projects/yogpstopmcmods/files/Release/jar/QuarryPlus/Minecraft%201.7.10%20with%20BC%206.1.X%20or%20newer/QuarryPlus-1.7.10-2.1.0.jar/download
-side = both
-
-[Railcraft]
-type = url
-destination = mods/Railcraft-9.15.11.jar
-url = https://github.com/GTNewHorizons/Railcraft/releases/download/9.15.11/Railcraft-9.15.11.jar
 side = both
 
 [Redstone Arsenal]
@@ -1080,12 +897,6 @@ type = curseforge
 projectId = 224641
 fileId = 2287287
 destination = mods/rftools-4.23.jar
-side = both
-
-[SextierySector2]
-type = url
-destination = mods/SextiarySector2-2.4.8.f-1.7.10.jar
-url = https://web.archive.org/web/20190715200711/https://forum.minecraftuser.jp/download/file.php?id=65308
 side = both
 
 [Solar Flux]
@@ -1134,6 +945,12 @@ type = modrinth
 projectId = saBU82Nh
 destination = mods/RFDrills-1.7.10-1.7.3.jar
 versionId = ap92MLy1
+side = both
+
+[HBM(in-space)]
+type = url
+destination = mods/HBM-NTM-.1.0.27_X5059.jar
+url = https://github.com/JameH2/Hbm-s-Nuclear-Tech-GIT/releases/download/xspace5b/HBM-NTM-.1.0.27_X5059.jar
 side = both
 
 # TODO: 水産系
@@ -1185,12 +1002,6 @@ destination = mods/ShionOnlyWins-0.01.jar
 url = https://github.com/chibivaru1225/ShionOnlyWins/releases/download/0.01/ShionOnlyWins-0.01.jar
 side = both
 
-#[NanoLaser]
-#type = url
-#destination = mods/NanoLaser-1.7.10-8.2.3-1.2.2.jar
-#url = https://web.archive.org/web/20190522122003/https://dl.dropboxusercontent.com/s/odiwor0armqlpm7/NanoLaser-1.7.10-8.2.3-1.2.2.jar
-#side = both
-
 # TODO: TiCアドオン
 # TiCアドオン
 
@@ -1209,27 +1020,6 @@ side = both
 
 # TODO: 魔術系
 # 魔術系mod
-
-[Aura Cascade]
-type = curseforge
-projectId = 227099
-fileId = 2261766
-destination = mods/AuraCascade-557.jar
-side = both
-
-[Blood Arsenal]
-type = curseforge
-projectId = 228823
-fileId = 2288783
-destination = mods/BloodArsenal-1.7.10-1.2-5.jar
-side = both
-
-[Blood Magic]
-type = modrinth
-projectId = PbNc6qBY
-destination = mods/BloodMagic-1.7.10-1.3.3-17.jar
-versionId = zNdLXvCW
-side = both
 
 [Botania]
 type = url
@@ -1272,13 +1062,6 @@ type = curseforge
 projectId = 575841
 fileId = 3862595
 destination = mods/Advanced Botany 1.3.1.7.jar
-side = both
-
-[Alfheim]
-type = curseforge
-projectId = 284811
-fileId = 5189478
-destination = mods/Alfheim-54.jar
 side = both
 
 [BotaniaVisualizer]
@@ -1509,12 +1292,6 @@ fileId = 2270206
 destination = mods/Pam's HarvestCraft 1.7.10Lb.jar
 side = both
 
-#[MapleTree]
-#type = url
-#destination = mods/[1.7.10]MapleTree Forge v1.1.33g.jar
-#url = https://web.archive.org/web/20170629033153/http://forum.minecraftuser.jp/download/file.php?id=71626
-#side = both
-
 # TODO: 輸送系
 # 輸送系mod
 
@@ -1522,13 +1299,6 @@ side = both
 type = url 
 destination = mods/logisticspipes-1.2.16-GTNH.jar
 url = https://github.com/GTNewHorizons/LogisticsPipes/releases/download/1.2.16-GTNH/logisticspipes-1.2.16-GTNH.jar
-side = both
-
-[Refined Relocation]
-type = curseforge
-projectId = 75811
-fileId = 2393121
-destination = mods/RefinedRelocation-mc1.7.10-1.1.34.jar
 side = both
 
 # TODO: エンドコンテンツ系
@@ -1556,102 +1326,6 @@ projectId = 241596
 fileId = 2334408
 destination = mods/SlashBlade-mc1.7.10-r87.jar
 side = both
-
-#[AnvilEnchant]
-#type = url
-#destination = mods/Slashblade-AnvilEnchant-mc1.7.10-r1.jar
-#url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=62767
-#side = both
-
-#[Blade of Wanderer]
-#type = url
-#destination = mods/SlashBladeWanderer-mc1.7.2-r1.jar
-#url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=51138
-#side = both
-
-#[BladeMaster]
-#type = url
-#destination = mods/BladeMaster-mc1.7.2-r1.2.jar
-#url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=51137
-#side = both
-
-#[MURASAMABlade]
-#type = url
-#destination = mods/MurasamaBlade-mc1.7.2-r3.2.jar
-#url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=49616
-#side = both
-
-#[TerraBlade]
-#type = url
-#destination = mods/SlashBlade-Terra-mc1.7.10-r1.jar
-#url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=56484
-#side = both
-
-#[Zephyr]
-#type = url
-#destination = mods/SlashBlade_Zephyr-mc1.7.2-r1.2.2.jar
-#url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=48180
-#side = both
-
-#[fluorescentbar]
-#type = url
-#destination = mods/fluorescentbar-mc1.7.2-r3.jar
-#url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=49506
-#side = both
-
-#[DarkRaven]
-#type = url
-#destination = mods/DarkRaven-mc1.7.2-r2.jar
-#url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=57229
-#side = both
-
-#[Nihil]
-#type = url
-#destination = mods/Nihil-mc1.7.x-r8.jar
-#url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=61937
-#side = both
-
-#[SlashBlade-Kirisaya]
-#type = url
-#destination = mods/SlashBlade-Kirisaya-r1.jar
-#url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=57176
-#side = both
-
-#[SlashBlade-Kamuy]
-#type = url
-#destination = mods/SlashBlade-Kamuy-mc1.7.10-r6.jar
-#url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=55969
-#side = both
-
-#[SlashBlade-Laemmle]
-#type = url
-#destination = mods/Slashblade-Laemmle-mc1.7.10-r1.jar
-#url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=60590
-#side = both
-
-#[SlashBlade-yukari]
-#type = url
-#destination = mods/Slashblade-yukari-mc1.7.10-r2.jar
-#url = https://web.archive.org/web/20190715123647/http://goo.gl/hchjUd
-#side = both
-
-#[SlashBladeFrostWolf]
-#type = url
-#destination = mods/SlashBladeFrostWolf-mc1.7.2-r1.1.jar
-#url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=51483
-#side = both
-
-#[toyako]
-#type = url
-#destination = mods/toyako-mc1.7.2-r1.jar
-#url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=48477
-#side = both
-
-#[SlashArts]
-#type = url
-#destination = mods/SlashBlade-SlashArts-mc1.7.10-r2.jar
-#url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=52353
-#side = both
 
 # TODO: Avaritiaアドオン
 # Avaritiaアドオンmod
@@ -1690,13 +1364,3 @@ projectId = 252200
 fileId = 2350157
 destination = mods/Universal Singularities [Version 8]-1.7.10.jar
 side = both
-
-# TODO: AMTアドオン
-# AMTアドオンmod
-
-#[EconomicalMilkTea]
-#type = curseforge
-#projectId = 244556
-#fileId = 2369987
-#destination = mods/EconomicalMilkTea-1.7.10_1.1j.jar
-#side = both
