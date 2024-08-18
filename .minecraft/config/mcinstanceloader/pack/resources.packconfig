@@ -342,7 +342,7 @@ side = both
 
 [ModTweaker]
 type = url
-destination = ModTweaker2-0.11.0.jar
+destination = mods/ModTweaker2-0.11.0.jar
 url = https://github.com/GTNewHorizons/ModTweaker/releases/download/0.11.0/ModTweaker2-0.11.0.jar
 side = both
 
@@ -443,7 +443,7 @@ side = both
 
 [Baubles]
 type = url
-destination = Baubles-1.0.4.jar
+destination = mods/Baubles-1.0.4.jar
 url = https://github.com/GTNewHorizons/Baubles/releases/download/1.0.4/Baubles-1.0.4.jar
 side = both
 
