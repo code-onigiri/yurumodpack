@@ -1036,11 +1036,11 @@ fileId = 2366149
 destination = mods/MineFactoryReloaded-[1.7.10]2.8.2B1-201.jar
 side = both
 
-[MFRAddon]
-type = url 
-destination = mods/MFRAddon-mc1.7.x-r5.jar
-url = https://web.archive.org/web/20190715140112/https://forum.minecraftuser.jp/download/file.php?id=50200
-side = both
+#[MFRAddon]
+#type = url 
+#destination = mods/MFRAddon-mc1.7.x-r5.jar
+#url = https://web.archive.org/web/20190715140112/https://forum.minecraftuser.jp/download/file.php?id=50200
+#side = both
 
 [NuclearCraft]
 type = curseforge
@@ -1261,7 +1261,7 @@ side = both
 [ArsMagica2]
 type = url
 destination = mods/AM2.5-LTS-1.6.9-LE.jar
-url = https://github.com/GTNewHorizons/LogisticsPipes/releases/tag/1.2.16-GTNH
+url = https://github.com/TCLProject/ArsMagica2-5/releases/download/v1.6.7/AM2.5-LTS-1.6.7.jar
 side = both
 
 # TODO: 魔術botaniaアドオン
@@ -1322,7 +1322,7 @@ side = both
 [ExtraScepterStaff]
 type = url
 destination = mods/ExtraScepterStaff-mc1.7.10-for422-r1.jar
-url = https://ux.getuploader.com/banseiyu/download/63
+url = https://downloadx.getuploader.com/g/66c194b9-c078-426d-a113-46d4a010e467/banseiyu/63/ExtraScepterStaff-mc1.7.10-for422-r1.jar
 side = both
 
 [Forbidden Magic]

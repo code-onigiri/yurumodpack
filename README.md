@@ -16,7 +16,8 @@
 - DigBedrock ([DigBedrock](https://web.archive.org/web/20190715185020/https://dl.dropboxusercontent.com/s/ycrw8wetebaazt0/DigBedrock-1.7.10-1.5.3.jar))
 - MapleTree ([MapleTree](https://web.archive.org/web/20171113044952/http://forum.minecraftuser.jp/download/file.php?id=71626))
 - SextiarySector2 ([SextiarySector2](https://web.archive.org/web/20190715200711/https://forum.minecraftuser.jp/download/file.php?id=65308))
-- 
+- Faucet ([Faucet](https://web.archive.org/web/20190715191354/https://forum.minecraftuser.jp/download/file.php?id=47086))
+- MFRAddon ([MFRAddon](https://web.archive.org/web/20190715140112/https://forum.minecraftuser.jp/download/file.php?id=50200))
 
 ## lwjgl3ifyについて
 この環境ではlwjgl3ifyが必須です。
