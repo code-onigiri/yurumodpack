@@ -474,11 +474,11 @@ fileId = 2272581
 destination = mods/CubicVillager-0.28.jar
 side = both
 
-[Faucet]
-type = url
-destination = mods/[1.7.x]Faucet Forge v1.0.2a.zip
-url = https://web.archive.org/web/20190715191354/https://forum.minecraftuser.jp/download/file.php?id=47086
-side = both
+#[Faucet]
+#type = url
+#destination = mods/[1.7.x]Faucet Forge v1.0.2a.zip
+#url = https://web.archive.org/web/20190715191354/https://forum.minecraftuser.jp/download/file.php?id=47086
+#side = both
 
 [FogNerf]
 type = curseforge
@@ -1509,11 +1509,11 @@ fileId = 2270206
 destination = mods/Pam's HarvestCraft 1.7.10Lb.jar
 side = both
 
-[MapleTree]
-type = url
-destination = mods/[1.7.10]MapleTree Forge v1.1.33g.jar
-url = https://web.archive.org/web/20170629033153/http://forum.minecraftuser.jp/download/file.php?id=71626
-side = both
+#[MapleTree]
+#type = url
+#destination = mods/[1.7.10]MapleTree Forge v1.1.33g.jar
+#url = https://web.archive.org/web/20170629033153/http://forum.minecraftuser.jp/download/file.php?id=71626
+#side = both
 
 # TODO: 輸送系
 # 輸送系mod
@@ -1557,53 +1557,53 @@ fileId = 2334408
 destination = mods/SlashBlade-mc1.7.10-r87.jar
 side = both
 
-[AnvilEnchant]
-type = url
-destination = mods/Slashblade-AnvilEnchant-mc1.7.10-r1.jar
-url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=62767
-side = both
+#[AnvilEnchant]
+#type = url
+#destination = mods/Slashblade-AnvilEnchant-mc1.7.10-r1.jar
+#url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=62767
+#side = both
 
-[Blade of Wanderer]
-type = url
-destination = mods/SlashBladeWanderer-mc1.7.2-r1.jar
-url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=51138
-side = both
+#[Blade of Wanderer]
+#type = url
+#destination = mods/SlashBladeWanderer-mc1.7.2-r1.jar
+#url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=51138
+#side = both
 
-[BladeMaster]
-type = url
-destination = mods/BladeMaster-mc1.7.2-r1.2.jar
-url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=51137
-side = both
+#[BladeMaster]
+#type = url
+#destination = mods/BladeMaster-mc1.7.2-r1.2.jar
+#url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=51137
+#side = both
 
-[MURASAMABlade]
-type = url
-destination = mods/MurasamaBlade-mc1.7.2-r3.2.jar
-url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=49616
-side = both
+#[MURASAMABlade]
+#type = url
+#destination = mods/MurasamaBlade-mc1.7.2-r3.2.jar
+#url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=49616
+#side = both
 
-[TerraBlade]
-type = url
-destination = mods/SlashBlade-Terra-mc1.7.10-r1.jar
-url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=56484
-side = both
+#[TerraBlade]
+#type = url
+#destination = mods/SlashBlade-Terra-mc1.7.10-r1.jar
+#url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=56484
+#side = both
 
-[Zephyr]
-type = url
-destination = mods/SlashBlade_Zephyr-mc1.7.2-r1.2.2.jar
-url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=48180
-side = both
+#[Zephyr]
+#type = url
+#destination = mods/SlashBlade_Zephyr-mc1.7.2-r1.2.2.jar
+#url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=48180
+#side = both
 
-[fluorescentbar]
-type = url
-destination = mods/fluorescentbar-mc1.7.2-r3.jar
-url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=49506
-side = both
+#[fluorescentbar]
+#type = url
+#destination = mods/fluorescentbar-mc1.7.2-r3.jar
+#url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=49506
+#side = both
 
-[DarkRaven]
-type = url
-destination = mods/DarkRaven-mc1.7.2-r2.jar
-url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=57229
-side = both
+#[DarkRaven]
+#type = url
+#destination = mods/DarkRaven-mc1.7.2-r2.jar
+#url = https://web.archive.org/web/20190715123647/http://forum.minecraftuser.jp/download/file.php?id=57229
+#side = both
 
 #[Nihil]
 #type = url
