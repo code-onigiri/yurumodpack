@@ -1,5 +1,5 @@
-Sun Aug 18 15:50:20 JST 2024 PatchStage selected: PRELOAD
-Sun Aug 18 15:50:20 JST 2024 Processing context: jdk.internal.loader.ClassLoaders$AppClassLoader@5ffd2b27@287096026
-Sun Aug 18 15:50:20 JST 2024 Processing context: com.gtnewhorizons.retrofuturabootstrap.RfbSystemClassLoader@312b1dae@1132206727
-Sun Aug 18 15:50:20 JST 2024 Processing context: net.minecraft.launchwrapper.LaunchClassLoader@186f8716@1532347350
-Sun Aug 18 15:50:20 JST 2024 Replaced factory
+Sun Aug 18 18:07:57 JST 2024 PatchStage selected: PRELOAD
+Sun Aug 18 18:07:57 JST 2024 Processing context: jdk.internal.loader.ClassLoaders$AppClassLoader@5ffd2b27@987620586
+Sun Aug 18 18:07:57 JST 2024 Processing context: com.gtnewhorizons.retrofuturabootstrap.RfbSystemClassLoader@312b1dae@1969632323
+Sun Aug 18 18:07:57 JST 2024 Processing context: net.minecraft.launchwrapper.LaunchClassLoader@186f8716@2013611768
+Sun Aug 18 18:07:57 JST 2024 Replaced factory

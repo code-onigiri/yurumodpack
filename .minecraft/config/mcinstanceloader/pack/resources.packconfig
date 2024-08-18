@@ -344,6 +344,14 @@ side = both
 # TODO: 便利系
 # TODO: 小物系
 
+[Personal Dimensions]
+type = modrinth
+projectId = ZnGlaJ2R
+destination = mods/personalspace-1.0.32.jar
+versionId = 40OGoJNL
+sourceFileName = personalspace-1.0.32.jar
+side = both
+
 [Enchiridion Continuation]
 type = curseforge
 projectId = 965712
