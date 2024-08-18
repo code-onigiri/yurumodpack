@@ -799,13 +799,6 @@ fileId = 2712410
 destination = mods/CropsPP-1.3.5.jar
 side = both
 
-[Deep Resonance]
-type = modrinth
-projectId = gzruRGfo
-destination = mods/deepresonance-1.1.4.jar
-versionId = x31GwgEa
-side = both
-
 [EnderIO-Unofficial]
 type = url
 destination = mods/EnderIO-2.8.17.jar
