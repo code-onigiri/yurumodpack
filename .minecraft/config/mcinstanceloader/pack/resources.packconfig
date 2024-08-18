@@ -1059,7 +1059,7 @@ side = both
 [QuarryPlus]
 type = url
 destination = mods/QuarryPlus-Mod-1.7.10.jar
-url = https://sourceforge.net/projects/yogpstopmcmods/files/Alpha/jar/QuarryPlus/Minecraft%201.7.10%20with%20BC%206.1.X%20or%20newer/QuarryPlus-1.7.10-e031534b8b4b1e833b1b46daf578389917e2a728.jar/download
+url = https://sourceforge.net/projects/yogpstopmcmods/files/Release/jar/QuarryPlus/Minecraft%201.7.10%20with%20BC%206.1.X%20or%20newer/QuarryPlus-1.7.10-2.1.0.jar/download
 side = both
 
 [Railcraft]
@@ -1485,8 +1485,8 @@ side = both
 
 [TofuCraft]
 type = url
-destination  = mods/TofuCraft-2.1.7-mc1.7.10.jar
-url = https://downloadx.getuploader.com/g/66c04310-ef60-4dbf-af9e-4dc1a010e467/fuckyoumotherfucker/60/TofuCraft-2.1.7-mc1.7.10.jar
+destination  = mods/TofuCraft-2.1.8-mc1.7.10.jar
+url = https://github.com/Tsuteto/TofuCraft-MC1.7.10/releases/download/2.1.8/TofuCraft-2.1.8-mc1.7.10.jar
 side = both
 
 [CookingForBlockheads]

@@ -14,6 +14,9 @@
 - SpawnChecker ([SpawnChecker](https://www.dropbox.com/scl/fo/ldhq4k4ctsxt9d4d436o0/AE6nAWWTFJMXIHsd2hnADkM/SpawnChecker/Minecraft_1.7.x/1.7.10?preview=SpawnChecker-2.1.4.128.jar&rlkey=emhq3an4gnpa8e52gtvmmmdx3&subfolder_nav_tracking=1&st=0ktwphxr&dl=0))
 - AdditionalEnchantments ([AdditionalEnchantments](https://web.archive.org/web/20190715132818/https://dl.dropboxusercontent.com/s/6k0hhj4jg7ck43s/AdditionalEnchantments-1.7.10-1.2.11.jar))
 - DigBedrock ([DigBedrock](https://web.archive.org/web/20190715185020/https://dl.dropboxusercontent.com/s/ycrw8wetebaazt0/DigBedrock-1.7.10-1.5.3.jar))
+- MapleTree ([MapleTree](https://web.archive.org/web/20171113044952/http://forum.minecraftuser.jp/download/file.php?id=71626))
+- SextiarySector2 ([SextiarySector2](https://web.archive.org/web/20190715200711/https://forum.minecraftuser.jp/download/file.php?id=65308))
+- 
 
 ## lwjgl3ifyについて
 この環境ではlwjgl3ifyが必須です。
